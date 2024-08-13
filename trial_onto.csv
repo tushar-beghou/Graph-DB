@@ -1,0 +1,8 @@
+﻿name,drugs_involved,therapy1,therapy2,indication
+ALPINE,Zanubrutinib | Ibrutinib,Zanubrutinib,Ibrutinib,CLL
+ROSEWOOD,Zanubrutinib | Obinutuzumab | Obinutuzumab,Zanubrutinib + Obinutuzumab,Obinutuzumab,FL
+SEQUOIA,Zanubrutinib | Rituximab | Bendamustine,Zanubrutinib,Rituximab + Bendamustine,CLL/SLL
+ASPEN,Zanubrutinib | Ibrutinib,Zanubrutinib,Ibrutinib,WM
+ASCEND,Acalabrutinib | Rituximab | Idealasib (or) Rituximab | Bendamustine,Acalabrutinib,Rituximab + Idealasib/ Bendamustine,CLL
+ELEVATE,Acalabrutinib | Ibrutinib,Acalabrutinib,Ibrutinib,CLL
+AMPLIFY,Acalabrutinib | Venetoclax | Obinutuzumab,Acalabrutinib + Venetoclax,Obinutuzumab,CLL
