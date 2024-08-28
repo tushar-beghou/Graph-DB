@@ -1,0 +1,111 @@
+name,short_name,market_name,indications,moa,curr_company,curr_company_full_name,prev_company,prev_company_full_name,mutations/specifics of indications,treatment_category
+Zanubrutinib,"zanu, bru, BGB-3111",Brukinsa,"MCL, CLL, WM",C BTKi,BeiGene,BeiGene,,,,Heme Onc
+Acalabrutinib,"acala, cal",Calquence,"CLL, SLL, MCL",C BTKi,AZ,AstraZeneca,,,,Heme Onc
+Pirtobrutinib,pirto,Jaypirca,"CLL, MCL",Non-C BTKi,Lilly,Lilly,,,,Heme Onc
+Ibrutinib,"ibru, imb, ibr",Imbruvica,"CLL, MCL, WM",C BTKi,AbbVie,AbbVie,,,,Heme Onc
+Venetoclax,ven,Venclexta,"CLL, SLL AML",BCL2,AbbVie,AbbVie,,,,Heme Onc
+Obinutuzumab,"obin, obinu",Gazyva,"CLL, FL",anti-CD20 mAbs ,Roche,Roche,,,,Heme Onc
+Tislelizumab,tisle,Tevimbra,ESCC,PD-1/PD-L1,BeiGene,BeiGene,,,,Heme Onc
+Trastuzumab,,Herceptin,"ABC, MBC, MGC",HER2 inhibitor,Genentech ,Genentech ,,,,Solid Tumors
+Trastuzumab,,Herceptin,"ABC, MBC, MGC",HER2 inhibitor,Roche ,Roche ,,,,Solid Tumors
+Rezivertinib,,,NSCLC,Gen 3rd EGFR TKI,Beta (???),Beta Pharma (???),,,NSCLC-EGFR,Solid Tumors
+Rezivertinib,,,NSCLC,Gen 3rd EGFR TKI,CSPC (??),CSPC Pharma (??),,,NSCLC-EGFR,Solid Tumors
+Tagitanlimab,,,"NPC, BC",mAbs,Kelun-Biotech (????),Kelun-Biotech (????),,,"NPC, mHER2- BC, HR+/HER2- BC",Solid Tumors
+Loncastuximab tesirine,,Zynlonta,"R/R LBCL, DLBCL",ADC,ADC Therapeutics ,ADC Therapeutics ,,,,Heme Onc
+Lisocabtagene maraleucel,,Breyanzi,"FL, MCL",CAR-T,BMS,Bristol-Myers Squibb,,,"3L+FL, 3L+MCL",Heme Onc
+Tarlatamab,,Imdelltra,ES-SCLC,BiTE,Amgen,Amgen,,,,Solid Tumors
+Zenocutuzumab,,Zeno,NSCLC,"HER2, HER3 bsAb",Merus,Merus,,,NRG1+ NSCLC,Solid Tumors
+Pembrolizumab,pembro,Keytruda,"Melanoma, NSCLC, HNSCC, cHL, PMBCL, Urothelial carcinoma, MSI-H/dMMR cancers, Gastric/GEJ adenocarcinoma, Cervical cancer, HCC, RCC, TNBC, Esophageal cancer, Endometrial carcinoma, MCC, cSCC, BTC",PD-1,Merck,Merck,,,,Solid Tumors
+Nivolumab,,Opdivo,"Unresectable/metastatic melanoma, NSCLC, Malignant pleural mesothelioma, RCC, cHL, HNSCC, Urothelial carcinoma, MSI-H/dMMR metastatic colorectal cancer, Esophageal SCC, Gastric/GEJ adenocarcinoma, HCC, Malignant mesothelioma of the pleura",PD-1,BMS,Bristol-Myers Squibb,,,,Solid Tumors
+Inavolisib,,,"HR+ MBC, HER2- MBC",PL3K alpha,Roche,Roche,,,,Solid Tumors
+Selpercatinib,Ret,Retevmo,"RET fusion-positive NSCLC, RET-mutant MTC, RET fusion-positive thyroid cancer, RET fusion-positive solid tumors.",RET kinase,Lilly,Lilly,,,,Solid Tumors
+Tovorafenib,,Ojemda,BRAF-alt pLGG,kinase inhibitor,Day One,Day One,,,,Solid Tumors
+Zolbetuximab,,Vyloy,HER2- GEJ adenocarcinoma,mAbs (CLDN18.2),Astellas,Astellas Pharmaceuticals,,,,Solid Tumors
+Vobramitamab duocarmazine ,"vobra, vobra duo ",,,B7-H3 ADC,MacroGenics,MacroGenics,,,,Solid Tumors
+Astrasentan,,,,ERA,Novartis,Novartis,,,,Solid Tumors
+Astrasentan,,,,ERA,SanReno Therapeutics,SanReno Therapeutics,,,,Solid Tumors
+Zigakibart,,,,mAbs (APRIL),Novartis,Novartis,,,,Solid Tumors
+Zigakibart,,,,mAbs (APRIL),SanReno Therapeutics,SanReno Therapeutics,,,,Solid Tumors
+Filgotinib,,Jyseleca,"RA, UC",JAK1 inhibitor,Alfasigma,Alfasigma,,,,Solid Tumors
+DPT0218,,,,Kv1.3 inhibitor,DP Technology,DP Technology,,,,Solid Tumors
+IB-MECA,,Piclidenoson ,,A3AR agonist,Can-Fite BioPharma ,Can-Fite BioPharma ,,,,Solid Tumors
+Tofacitinib,,Xeljanz,"RA, PsA, UC, AS, pcJIA",JAK1/3 inhibitor,Biora Therapeutics ,Biora Therapeutics ,,,,Solid Tumors
+Lirentelimab,,AK002,"EG, EoD, EoE, CSU, AD (investigational)",mAbs (Siglec-8 agonist),Allakos,Allakos Inc.,,,,Solid Tumors
+Envafolimab,,???,Solid Tumors,SubQ PD-L1,Alphamab (????),Alphamab (????),,,,Solid Tumors
+Envafolimab,,???,Solid Tumors,SubQ PD-L1,3DMedicines (???),3DMedicines (???),,,,Solid Tumors
+Envafolimab,,???,Solid Tumors,SubQ PD-L1,Glenmark Specialty S.A. ,Glenmark Specialty S.A. ,,,,Solid Tumors
+Elranatamab,,Elrexfio,RRMM,BCMAxCD3 bsAb,Pfizer,Pfizer,,,,Heme Onc
+Amivantamab,,Rybrevant,NSCLC,EGFR×MET bsAb,J&J,Johnson & Johnson,,,1L EGFRm NSCLC,Solid Tumors
+Amivantamab,,Rybrevant,NSCLC,EGFR×MET bsAb,Janssen Biotech,Janssen Biotech,,,1L EGFRm NSCLC,Solid Tumors
+Lazertinib,,Leclaza,NSCLC,3rd Gen EGFR TKI,Yuhan,Yuhan Corporation,,,1L EGFRm NSCLC,Solid Tumors
+Lazertinib,,Leclaza,NSCLC,3rd Gen EGFR TKI,Janssen Biotech,Janssen Biotech,,,1L EGFRm NSCLC,Solid Tumors
+Finotonlimab,,,"HCC, renal cell carcinoma, melanoma, NSCLC, SCCHN",PD-1/PD-L1,SinoCellTech (????),SinoCellTech (????),,,1L adv. HCC ,Solid Tumors
+Iruplinalkib,,Qixinko (???),NSCLC,ROS1/ALK TKI,Qilu (??),Qilu (??),,,"1L ALK+ NSCLC, ROS-1 NSCLC",Solid Tumors
+Olaparib,,Lynparza,"OC, BC, PC, mCRPC",PARP inhibitor,AZ,AstraZeneca,,,"BRCA-mutated ovarian cancer, breast cancer, pancreatic cancer, prostate cancer",Solid Tumors
+Relmacabtagene autoleucel,,Carteyva,"LBCL, FL",CAR-T,JW Therapeutics (????),JW Therapeutics (????),,,,Solid Tumors
+Pertuzumab + Trastuzumab + Hyaluronidase-zzxf,,Phesgo,BC,HER2 inhibitor,Roche,Roche,,,HER2-positive breast cancer,Solid Tumors
+Pertuzumab + Trastuzumab + Hyaluronidase-zzxf,,Phesgo,BC,HER2 inhibitor,Greentech,Greentech,,,HER2-positive breast cancer,Solid Tumors
+Garsorasib,,,NSCLC,KRAS-G12C inhibitor,InventisBio (????),InventisBio (????),,,2L KRAS G12Cm NSCLC ,Solid Tumors
+Garsorasib,,,NSCLC,KRAS-G12C inhibitor,CTTQ(????),CTTQ(????),,,2L KRAS G12Cm NSCLC ,Solid Tumors
+Toripalimab,,Loqtorzi,NPC,mAbs PD-1,Junshi (??),Shanghai Junshi Biosciences (??),,,,Solid Tumors
+Pertuzumab ,,Perjeta,BC,HER2 mAbs,Roche,Roche,,,HER2+ BC,Solid Tumors
+Pertuzumab ,,Perjeta,BC,HER2 mAbs,Greentech,Greentech,,,HER2+ BC,Solid Tumors
+Ziftomenib,,,AML,menin inhibitor,Kura Oncology,Kura Oncology,,,Acute myeloid leukemia (AML) with NPM1 or KMT2A mutations,Solid Tumors
+Iopofosine,,,"WM, multiple myeloma, CNS lymphoma",small molecule PDC,Cellectar Biosciences,Cellectar Biosciences,,,"Relapsed/refractory multiple myeloma, 3L+ WM, CNS lymphoma",Solid Tumors
+Lisocabtagene maraleucel,,Breyanzi,"FL, MCL",CD19 CAR-T,BMS,Bristol-Myers Squibb,,,"Large B-cell lymphoma, R/R FL and MCL",Heme Onc
+NX-5948,,,"CLL, SLL",BTK degrader,Nurix Therapeutics,Nurix Therapeutics,,,3L+ CLL/SLL,Solid Tumors
+Idecabtagene vicleucel,,Abecma,MM,BCMA-Directed CAR T,BMS,Bristol-Myers Squibb,,,R/R MM ,Heme Onc
+Momelotinib,,Ojjaara,MF,JAK1/JAK2/ACVR1 inhibitor,GSK,GSK,,,Myelofibrosis with anemia,Heme Onc
+AVZO-021,,,,ARTS-021; CDK2 inhibitor,Avenzo ,Avenzo Therapeutics,,,,Solid Tumors
+TTFields,,Optune,NSCLC,,Novocure,Novocure,,,"Glioblastoma multiforme, mesothelioma",Solid Tumors
+BLU-222,,,,CDK2,Blueprint Medicines,Blueprint Medicines,,,,Solid Tumors
+BLU-958,,,,next-gen CDK2,Blueprint Medicines,Blueprint Medicines,,,,Solid Tumors
+Zolbetuximab,zolbe,,,CLDN18.2,Astellas,Astellas Pharmaceuticals ,,,,Solid Tumors
+Ambrx,,,,ADC,Ambrx ,Ambrx Biopharma,,,,Solid Tumors
+JS006,,,,TIGIT mAbs,Junshi (??),Shanghai Junshi Biosciences (??),,,,Solid Tumors
+Toripalimab,,Loqtorzi,NPC,PD-1/PD-L1,Junshi (??),Shanghai Junshi Biosciences (??),,,Metastatic or recurrent nasopharyngeal carcinoma,Solid Tumors
+AVZO-021,,,,CDK2,Avenzo ,Avenzo Therapeutics,,,"HR+/HER2- metastatic breast cancer, advanced solid tumors",Solid Tumors
+Domvanalimab,,,,TIGIT,Arcus ,Arcus Biosciences,,,,Solid Tumors
+Sacituzumab govitecan,,Trodelvy,"TNBC, HER2- BC",TROP2 ADC,Gilead ,Gilead Sciences,,,,Solid Tumors
+Tisotumab vedotin,,Tivdak,CESC,ADC,Seagen,Seagen,,,,Solid Tumors
+Tisotumab vedotin,,Tivdak,CESC,ADC,Genmab,Genmab,,,,Solid Tumors
+Tisotumab vedotin,,Tivdak,CESC,ADC,Pfizer,Pfizer,,,,Solid Tumors
+Enfortumab vedotin,,Padcev,UC,Nectin-4 ADC,Astellas,Astellas Pharmaceuticals,,,LA/M UC,Solid Tumors
+Enfortumab vedotin,,Padcev,UC,Nectin-4 ADC,Seagen,Seagen,,,LA/M UC,Solid Tumors
+Talazoparib + Enzalutamide,,,mCRPC,PARP inhibitor,Pfizer,Pfizer,,,HRR gene-mutated mCRPC,Solid Tumors
+HPN328,,,,TriTE,Harpoon ,Harpoon Therapeutics,,,,Solid Tumors
+HPN217,,,,TriTE,Harpoon ,Harpoon Therapeutics,,,,Solid Tumors
+T-DXd,,Enhertu,BC,HER2 ADC,Daiichi,Daiichi Sankyo,,,"HER2+ BC, HER2-low BC",Solid Tumors
+T-DXd,,Enhertu,BC,HER2 ADC,AZ,AstraZeneca,,,"HER2+ BC, HER2-low BC",Solid Tumors
+Repotrectinib,,Augtyro ,"NSCLC, solid tumors.",ROS1/TRK/ALK inhibitor,BMS,Bristol-Myers Squibb,Turning Point Therapeutics,Turning Point Therapeutics,"ROS1+ NSCLC, NTRK gene fusion+ solid tumors.",Solid Tumors
+Adagrasib,,Krazati,"NSCLC, CRC",KRAS G12C inhibitor,BMS,Bristol-Myers Squibb,Mirati ,Mirati Therapeutics,"KRAS G12C-mutated NSCLC, CRC",Solid Tumors
+Atezolizumab,,Tecentriq,"NSCLC, SCLC, HCC",PD-L1,Roche,Roche,,,,Solid Tumors
+Atezolizumab,,Tecentriq,"NSCLC, SCLC, HCC",PD-L1,Greentech,Greentech,,,,Solid Tumors
+felzartamab,,,,CD38 antagonist,Biogen,Biogen,,,,Solid Tumors
+izastobart,,,,C5aR1 antagonist,Biogen,Biogen,,,,Solid Tumors
+GRI-0803,,,,Type 2 NKT agonist,GRI Bio ,GRI Bio ,,,,Solid Tumors
+IMG-007,,,,OX40 antagonist,Inmagene,Inmagene Biopharmaceuticals ,,,,Solid Tumors
+SOR102,,,,"TNF? antagonist, IL-23p19 antagonist",Sorriso,Sorriso Pharmaceuticals ,,,,Solid Tumors
+Isatuximab,,Sarclisa (??????),MM,CD38,Sanofi,Sanofi S.A.,,,,Heme Onc
+Ivonescimab,,???,,VEGFxPD-1 bsAb,Akeso (??),Akeso (??),,,,Solid Tumors
+Fluzoparib,,???,OC,PARP,Hengrui (??),Jiangsu Hengrui (????),,,,Solid Tumors
+Mefatinib,,,,EGFR/HER2 TKI,Huadong (??),Huadong Medicine (????),,,,Solid Tumors
+Tagitanlimab,,,,Anti-B7-H3 mAb,Kelun-Biotech (????),Kelun-Biotech (????),,,,Solid Tumors
+Repotrectinib,,???,"NSCLC, solid tumors.",ROS1/TRK/ALK inhibitor,Zai Lab (??),Zai Lab (??),Turning Point Therapeutics,Turning Point Therapeutics,"ROS1+ NSCLC, NTRK gene fusion+ solid tumors.",Solid Tumors
+Benmelstobart,,,,PD-1/PD-L1,Sinobiopharm (????),Sino BioPharmaceutical Limited  (????),,,,Solid Tumors
+Glecirasib,,,,KRAS G12C inhibitor,Jacobio,Jacobio Pharma,,,,Solid Tumors
+BPI-16350 ,,???,,CDK4/6 inhibitor,Betta,Betta Pharmaceuticals,,,,Solid Tumors
+uproleselan,,,,E-selectin antagonist,GlycoMimetics,GlycoMimetics,,,,Solid Tumors
+Belrestotug,,,,TIGIT mAbs,iTeos,iTeos Therapeutics,,,,Solid Tumors
+Dostarlimab-gxly,,Jermperli,dMMR EC,PD-1/PD-L1,GSK,GSK,,,,Solid Tumors
+ERAS-0015,,,,RAS inhibitor,Erasca,Erasca,,,,Solid Tumors
+ERAS-4001,,,,KRAS inhibitor,Erasca,Erasca,,,,Solid Tumors
+Camrelizumab,,AiRuiKa,"HCC, HL, ESCC, NPC, NSCLC",PD-1/PD-L1,Hengrui (??),Jiangsu Hengrui (????),,,,Solid Tumors
+Rivoceranib,,Aitan,HCC ,VEGFR-2 inhibitor,Hengrui (??),Jiangsu Hengrui (????),,,,Solid Tumors
+NVL-655,,,NSCLC,ROS1 inhibitor,Nuvalent,Nuvalent,,,,Solid Tumors
+Zanidatamab,,,,HER2 BsAbs,Jazz,Jazz Pharmaceuticals,,,,Solid Tumors
+Zanidatamab,,,,HER2 BsAbs,BeiGene,BeiGene,,,,Solid Tumors
+Vibostolimab,,,,TIGIT mAbs,Merck,Merck,,,,Solid Tumors
+Opnurasib,JDQ-443,,,KRAS G12C inhibitor,Novartis,Novartis,,,,Solid Tumors
+Dato-DXd,,,,TROP2 ADC,Daiichi,Daiichi Sankyo,,,,Solid Tumors
+Dato-DXd,,,,TROP2 ADC,AZ,AstraZeneca,,,,Solid Tumors
