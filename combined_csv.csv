@@ -1,0 +1,400 @@
+﻿entity,type,entity_type,description/context,ask,for_tagging,for_graph,for_glossary,treatment_category,indications,short_name,market_name,moa,mutations/specifics of indications,drugs_involved,therapy1,therapy2,therapy3,NCT#
+ALPINE,string,ClinicalTrial,"ALPINE is a  global phase 3 trial comparing zanubrutinib(also known as: brukinsa,zanu, bru, bgb-3111) (BRUKINSA®) to ibrutinib(also known as: imbruvica,ibru, imb, ibr) in patients with relapsed or refractory chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL) that demonstrated superior progression-free survival and overall response rate for zanubrutinib(also known as: brukinsa,zanu, bru, bgb-3111)","identify whether the question has relevance with ALPINE or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,"R/R CLL, SLL",,,,,"Zanubrutinib, Ibrutinib",Zanubrutinib,Ibrutinib,,NCT03734016
+ROSEWOOD,string,ClinicalTrial,"ROSEWOOD is a  phase 2 trial that evaluates the efficacy, safety, and tolerability of zanubrutinib(also known as: brukinsa,zanu, bru, bgb-3111) plus obinutuzumab(also known as: gazyva,obin, obinu) versus obinutuzumab(also known as: gazyva,obin, obinu) alone in patients with relapsed or refractory follicular lymphoma (FL) who have received two or more lines of therapy","identify whether the question has relevance with ROSEWOOD or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,R/R FL,,,,,"Zanubrutinib, Obinutuzumab",Zanubrutinib + Obinutuzumab,Obinutuzumab,,NCT03332017
+SEQUOIA,string,ClinicalTrial,"SEQUOIA is a  global phase 3 trial comparing zanubrutinib(also known as: brukinsa,zanu, bru, bgb-3111) to bendamustine plus rituximab in treatment-naïve patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL); trial focuses on patients with and without the deletion of chromosome 17p","identify whether the question has relevance with SEQUOIA or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,CLL/SLL,,,,,"Zanubrutinib, Rituximab, Bendamustine",Zanubrutinib,Rituximab + Bendamustine,,NCT03336333
+ASPEN,string,ClinicalTrial,"ASPEN is a  phase 3 trial comparing zanubrutinib(also known as: brukinsa,zanu, bru, bgb-3111) to ibrutinib(also known as: imbruvica,ibru, imb, ibr) in patients with Waldenström's macroglobulinemia, focusing on efficacy and safety","identify whether the question has relevance with ASPEN or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,WM,,,,,"Zanubrutinib, Ibrutinib",Zanubrutinib,Ibrutinib,,NCT05568472
+ASCEND,string,ClinicalTrial,"ASCEND is a  phase 3 trial evaluating acalabrutinib(also known as: calquence,acala, cal) versus rituximab combined with idelalisib or bendamustine in patients with relapsed or refractory chronic lymphocytic leukemia","identify whether the question has relevance with ASCEND or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,CLL,,,,,"Acalabrutinib, Rituximab, Idealasib, Bendamustine",Acalabrutinib,Rituximab + Idealasib/Bendamustine,,NCT03029247
+ELEVATE-PR,string,ClinicalTrial,"ELEVATE-PR is a  phase 3 trial evaluating acalabrutinib(also known as: calquence,acala, cal) versus ibrutinib(also known as: imbruvica,ibru, imb, ibr) in patients with previously treated chronic lymphocytic leukemia ","identify whether the question has relevance with ELEVATE-PR or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,CLL,,,,,"Acalabrutinib, Ibrutinib",Acalabrutinib,Ibrutinib,,NCT05727059
+AMPLIFY,string,ClinicalTrial,"AMPLIFY is a  phase 3 trial comparing acalabrutinib(also known as: calquence,acala, cal) plus venetoclax(also known as: venclexta,ven), with or without obinutuzumab(also known as: gazyva,obin, obinu), to standard chemoimmunotherapy in patients with untreated chronic lymphocytic leukemia","identify whether the question has relevance with AMPLIFY or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,CLL,,,,,"Acalabrutinib, Venetoclax, Obinutuzumab",Acalabrutinib + Venetoclax,Obinutuzumab,,NCT00633893
+ELEVATE-TN,string,ClinicalTrial,"ELEVATE-TN is a  phase 3 study evaluating acalabrutinib(also known as: calquence,acala, cal) alone or with obinutuzumab(also known as: gazyva,obin, obinu) versus chlorambucil with obinutuzumab(also known as: gazyva,obin, obinu) in treatment-naive chronic lymphocytic leukemia","identify whether the question has relevance with ELEVATE-TN or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,CLL,,,,,"Acalabrutinib, Obinutuzumab, Chlorambucil ",Acalabrutinib + Obinutuzumab (or) Acalabrutinib,Obinutuzumab + Chlorambucil ,,NCT02475681
+ECHO,string,ClinicalTrial,"ECHO is a  phase 3 trial evaluating acalabrutinib(also known as: calquence,acala, cal) plus bendamustine and rituximab in patients with previously untreated mantle cell lymphoma","identify whether the question has relevance with ECHO or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,MCL,,,,,"Acalabrutinib, Bendamustine, Rituximab, Chemotherapy",Acalabrutinib + Bendamustine + Rituximab,Chemotherapy,,NCT02972840
+MURANO,string,ClinicalTrial,"MURANO is a  phase 3 trial evaluating the efficacy and safety of venetoclax(also known as: venclexta,ven) plus rituximab compared to bendamustine plus rituximab in patients with relapsed or refractory chronic lymphocytic leukemia (CLL)","identify whether the question has relevance with MURANO or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,CLL,,,,,"Venetoclax, Rituximab, Bendamustine",Venetoclax + Rituximab,Rituximab + Bendamustine,,NCT02005471
+MAJIC,string,ClinicalTrial,"MAJIC is a  phase 3 prospective, multicenter, randomized trial comparing acalabrutinib(also known as: calquence,acala, cal) plus venetoclax(also known as: venclexta,ven) to venetoclax(also known as: venclexta,ven) plus obinutuzumab(also known as: gazyva,obin, obinu) in previously untreated chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL)","identify whether the question has relevance with MAJIC or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,CLL/SLL,,,,,"Acalabrutinib, Venetoclax, Obinutuzumab",Acalabrutinib + Venetoclax,Venetoclax + Obinutuzumab,,NCT05057494
+FLAIR,string,ClinicalTrial,"FLAIR is a  phase 3 trial comparing ibrutinib(also known as: imbruvica,ibru, imb, ibr) plus rituximab to fludarabine, cyclophosphamide, and rituximab (FCR) in previously untreated chronic lymphocytic leukemia (CLL) patients","identify whether the question has relevance with FLAIR or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,CLL,,,,,"Ibrutinib, Rituximab, Fludarabine, Cyclophosphamide, Rituximab (FCR)",Ibrutinib + Rituximab,"Fludarabine + Cyclophosphamide, and Rituximab (FCR)",,NCT02938520
+CAPTIVATE,string,ClinicalTrial,"CAPTIVATE is a  phase 2 trial evaluating the combination of ibrutinib(also known as: imbruvica,ibru, imb, ibr) and venetoclax(also known as: venclexta,ven) in patients with previously untreated chronic lymphocytic leukemia (CLL) and assessing minimal residual disease (MRD) status and/or small lymphocytic lymphoma (SLL).","identify whether the question has relevance with CAPTIVATE or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,CLL/SLL,,,,,"Ibrutinib, Venetoclax",Ibrutinib + Venetoclax,,,NCT02910583
+RESONATE,string,ClinicalTrial,"RESONATE is a  phase 3 trial comparing ibrutinib(also known as: imbruvica,ibru, imb, ibr) to ofatumumab in patients with relapsed or refractory chronic lymphocytic leukemia (CLL), demonstrating superior progression-free survival and overall survival for ibrutinib(also known as: imbruvica,ibru, imb, ibr)","identify whether the question has relevance with RESONATE or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,CLL,,,,,"Ibrutinib, Ofatumumab",Ibrutinib,Ofatumumab,,NCT01578707
+SYMPATICO,string,ClinicalTrial,"SYMPATICO is a  phase 3 trial investigating the combination of ibrutinib(also known as: imbruvica,ibru, imb, ibr) and venetoclax(also known as: venclexta,ven) in patients with relapsed or refractory mantle cell lymphoma (MCL), showing improved progression-free survival compared to ibrutinib(also known as: imbruvica,ibru, imb, ibr) alone.","identify whether the question has relevance with SYMPATICO or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,MCL,,,,,"Ibrutinib, Venetoclax",Ibrutinib,Ibrutinib + Venetoclax,,NCT03112174
+RATIONALE-315,string,ClinicalTrial,"RATIONALE-315 is a  phase 3 trial of tislelizumab(also known as: tevimbra,tisle, bgb-a317) in combination with platinum-based doublet chemotherapy as neoadjuvant treatment for patients with non-small cell lung cancer","identify whether the question has relevance with RATIONALE-315 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,NSCLC,,,,,"Tislelizumab, Chemotherapy",Tislelizumab + Chemotherapy,,,NCT04379635
+RATIONALE-312,string,ClinicalTrial,"RATIONALE-312 is a  phase 3 trial of tislelizumab(also known as: tevimbra,tisle, bgb-a317) combined with platinum and etoposide versus placebo combined with platinum and etoposide in patients with extensive-stage small cell lung cancer","identify whether the question has relevance with RATIONALE-312 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,ES-SCLC,,,,,"Tislelizumab, Chemotherapy",Tislelizumab,Chemotherapy,,NCT04005716
+RATIONALE-311,string,ClinicalTrial,"RATIONALE-311 is a  phase 3 trial of tislelizumab(also known as: tevimbra,tisle, bgb-a317) versus placebo in combination with chemoradiotherapy in patients with localized esophageal squamous cell carcinoma","identify whether the question has relevance with RATIONALE-311 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,ESCC,,,,,"Tislelizumab, Chemotherapy",Tislelizumab + Chemotherapy,,,NCT03957590
+RATIONALE-310,string,ClinicalTrial,RATIONALE-310 is a  phase 3 trial comparing tislelizumab and sorafenib in patients with locally advanced or metastatic urothelial carcinoma,"identify whether the question has relevance with RATIONALE-310 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,HCC,,,,,"Tislelizumab, Sorafenib",Tislelizumab,Sorafenib,,NCT03967977
+RATIONALE-309,string,ClinicalTrial,"RATIONALE-309 is a  phase 3 clinical trial evaluating the efficacy and safety of tislelizumab(also known as: tevimbra,tisle, bgb-a317) combined with gemcitabine and cisplatin (Arm A) versus placebo combined with gemcitabine and cisplatin (Arm B) as a first-line treatment for patients with R/M NPC","identify whether the question has relevance with RATIONALE-309 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,R/M NPC,,,,,"Tislelizumab, Gemcitabine, Cisplatin ",Tislelizumab + Gemcitabine + Cisplatin ,,,NCT03924986
+RATIONALE-307,string,ClinicalTrial,"RATIONALE-307 is a  phase 3 trial of tislelizumab(also known as: tevimbra,tisle, bgb-a317) in combination with chemotherapy versus chemotherapy as first-line treatment for patients with advanced squamous non-small cell lung cancer","identify whether the question has relevance with RATIONALE-307 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,NSCLC,,,,,"Tislelizumab, Chemotherapy",Tislelizumab + Chemotherapy,Chemotherapy,,NCT03594747
+RATIONALE-306,string,ClinicalTrial,"RATIONALE-306 is a  global phase 3 trial of tislelizumab(also known as: tevimbra,tisle, bgb-a317) in combination with chemotherapy in patients with previously untreated advanced or metastatic ESCC","identify whether the question has relevance with RATIONALE-306 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,ESCC,,,,,"Tislelizumab, Chemotherapy",Tislelizumab + Chemotherapy,,,NCT03783442
+RATIONALE-305,string,ClinicalTrial,"RATIONALE-305 is a  phase 3 trial of tislelizumab(also known as: tevimbra,tisle, bgb-a317) combined with chemotherapy versus placebo combined with chemotherapy as first_x0002_line treatment for patients with gastric cancer","identify whether the question has relevance with RATIONALE-305 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,"GC,GEJC",,,,,"Tislelizumab, Chemotherapy",Tislelizumab + Chemotherapy,Chemotherapy,,NCT03777657
+RATIONALE-304,string,ClinicalTrial,"RATIONALE-304 is a  phase 3 trial of tislelizumab(also known as: tevimbra,tisle, bgb-a317) in combination with chemotherapy versus chemotherapy as first-line treatment for patients with advanced non-squamous non-small cell lung cancer ","identify whether the question has relevance with RATIONALE-304 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,NSCLC,,,,,"Tislelizumab, Chemotherapy",Tislelizumab + Chemotherapy,Chemotherapy,,NCT03663205
+RATIONALE-303,string,ClinicalTrial,"RATIONALE-303 is a  phase 3 trial comparing tislelizumab(also known as: tevimbra,tisle, bgb-a317) with docetaxel in the second- or third line setting in patients with nonsmall cell lung cancer","identify whether the question has relevance with RATIONALE-303 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,NSCLC ,,,,,"Tislelizumab, Docetaxel",Tislelizumab,Docetaxel,,NCT03358875
+RATIONALE-302,string,ClinicalTrial,"RATIONALE-302 is a  phase 3 trial comparing tislelizumab(also known as: tevimbra,tisle, bgb-a317) with chemotherapy as second-line treatment for patients with advanced ESCC","identify whether the question has relevance with RATIONALE-302 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,ESCC,,,,,"Tislelizumab, Chemotherapy",Tislelizumab,Chemotherapy,,NCT03430843
+RATIONALE-301,string,ClinicalTrial,"RATIONALE-301 is a  global phase 3 trial comparing tislelizumab(also known as: tevimbra,tisle, bgb-a317) with sorafenib as first-line treatment for patients with unresectable hepatocellular carcinoma","identify whether the question has relevance with RATIONALE-301 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,HCC,,,,,"Tislelizumab, Sorafenib",Tislelizumab + sorafenib,,,NCT03412773
+RATIONALE-208,string,ClinicalTrial,"RATIONALE-208 is a  phase 2 trial studying the efficacy and safety of tislelizumab(also known as: tevimbra,tisle, bgb-a317) in patients with in patients with advanced HCC with Child-Pugh A, Barcelona Clinic Liver Cancer stage B or C, and who had received one or more prior lines of systemic therapy","identify whether the question has relevance with RATIONALE-208 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,"HCC, BCLC",,,,,Tislelizumab,Tislelizumab,,,NCT03419897
+RATIONALE-209,string,ClinicalTrial,"RATIONALE-209 is a  phase 2 trial evaluating the efficacy and safety of tislelizumab(also known as: tevimbra,tisle, bgb-a317) monotherapy in patients with previously-treated, locally advanced unresectable or metastatic microsatellite instability-high/mismatch repair-deficient 
+solid tumors","identify whether the question has relevance with RATIONALE-209 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,microsatellite instability-high/mismatch repair deficient solid tumors,,,,,Tislelizumab,Tislelizumab,,,NCT03736889
+BGB-A317-314,string,ClinicalTrial,"BGB-A317-314 is a  phase 3 trial comparing tislelizumab(also known as: tevimbra,tisle, bgb-a317) to salvage chemotherapy in patients with relapsed or refractory classical Hodgkin Lymphoma","identify whether the question has relevance with BGB-A317-314 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,HL,,,,,Tislelizumab,Tislelizumab,,,NCT04486391
+AdvanTIG-105,string,ClinicalTrial,"AdvanTIG-105 is a  phase 1/1b open-label study evaluating tislelizumab(also known as: tevimbra,tisle, bgb-a317) in combination with ociperlimab in advanced, unresectable, or metastatic solid tumors","identify whether the question has relevance with AdvanTIG-105 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,Advanced Solid Tumors,,,,,"Tislelizumab, Ociperlimab",Tislelizumab + Ociperlimab,,,NCT04047862
+AdvanTIG-202,string,ClinicalTrial,"AdvanTIG-202 is a  phase 2 trial of tislelizumab(also known as: tevimbra,tisle, bgb-a317) in combination with ociperlimab in metastatic cervical cancer","identify whether the question has relevance with AdvanTIG-202 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,MCC,,,,,"Tislelizumab, Ociperlimab",Tislelizumab + Ociperlimab,,,NCT04693234
+AdvanTIG-203,string,ClinicalTrial,"AdvanTIG-203 is a  phase 2 trial of tislelizumab(also known as: tevimbra,tisle, bgb-a317) in combination with ociperlimab in advanced esophageal squamous cell carcinoma","identify whether the question has relevance with AdvanTIG-203 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,ESCC,,,,,"Tislelizumab, Ociperlimab",Tislelizumab + Ociperlimab,,,NCT04732494
+AdvanTIG-204,string,ClinicalTrial,"AdvanTIG-204 is a  phase 2 trial of tislelizumab(also known as: tevimbra,tisle, bgb-a317) in combination with ociperlimab with concurrent chemoradiotherapy in patients with untreated limited-stage small cell lung cancer","identify whether the question has relevance with AdvanTIG-204 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,NSCLC,,,,,"Tislelizumab, Ociperlimab",Tislelizumab + Ociperlimab,,,NCT04952597
+AdvanTIG-205,string,ClinicalTrial,"AdvanTIG-205 is a  phase 2 study designed to investigate the efficacy and safety of ociperlimab in combination with tislelizumab(also known as: tevimbra,tisle, bgb-a317) and chemotherapy vs tislelizumab(also known as: tevimbra,tisle, bgb-a317) and chemotherapy, as first-line treatment in patients with unresectable, or metastatic NSCLC","identify whether the question has relevance with AdvanTIG-205 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,NSCLC,,,,,"Tislelizumab, Ociperlimab",Tislelizumab + Ociperlimab,,,NCT05014815
+AdvanTIG-206,string,ClinicalTrial,"AdvanTIG-206 is a  phase 2 open-label study investigating the efficacy and safety of tislelizumab(also known as: tevimbra,tisle, bgb-a317) and ociperlimab and BAT1706 combinations in patients with advanced hepatocellular carcinoma","identify whether the question has relevance with AdvanTIG-206 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,HCC,,,,,"Tislelizumab, Ociperlimab, BAT1706",Tislelizumab + Ociperlimab + BAT1706,,,NCT04948697
+AdvanTIG-301,string,ClinicalTrial,"AdvanTIG-301 is a  phase 3 trial of tislelizumab(also known as: tevimbra,tisle, bgb-a317) in combination with ociperlimab in locally advanced, unresectable non-small cell lung cancer","identify whether the question has relevance with AdvanTIG-301 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,NSCLC,,,,,"Tislelizumab, Ociperlimab",Tislelizumab + Ociperlimab,,,NCT04866017
+AdvanTIG-302,string,ClinicalTrial,"AdvanTIG-302 is a  phase 2 trial of tislelizumab(also known as: tevimbra,tisle, bgb-a317) in combination with ociperlimab in untreated non-small cell lung cancer","identify whether the question has relevance with AdvanTIG-302 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,NSCLC,,,,,"Tislelizumab, Ociperlimab",Tislelizumab + Ociperlimab,,,NCT04746924
+CHECKMATE-648,string,ClinicalTrial,"CHECKMATE-648 is a ivolumab plus chemotherapy versus placebo plus chemotherapy vs nivolumab(also known as: opdivo,nivo) plus ipilimumab(also known as: yervoy,ipi) in previously untreated advanced ESCC","identify whether the question has relevance with CHECKMATE-648 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,ESCC,,,,,"Nivolumab, Chemotherapy, Placebo, Ipilimumab",Nivolumab + Chemotherapy,Placebo + Chemotherapy,Nivolumab + Ipilimumab,NCT03143153
+CHECKMATE-649,string,ClinicalTrial,"CHECKMATE-649 compares ivolumab plus chemotherapy versus placebo plus chemotherapy in previously untreated advanced gastric, gastroesophageal junction, and esophageal adenocarcinoma","identify whether the question has relevance with CHECKMATE-649 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,"GC,GEJC, GEA",,,,,"Nivolumab, Chemotherapy, Placebo",Nivolumab + Chemotherapy,Placebo + Chemotherapy,,NCT02872116
+KEYNOTE-859,string,ClinicalTrial,KEYNOTE-859 compares pembrolizumab plus chemotherapy versus placebo plus chemotherapy for locally advanced or metastatic HER2-negative advanced gastric or gastroesophageal adenocarcinoma ,"identify whether the question has relevance with KEYNOTE-859 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,"GC,GEA",,,,,"Pembrolizumab, Chemotherapy, Placebo",Pembrolizumab + Chemotherapy,Placebo + Chemotherapy,,NCT03675737
+KEYNOTE-590,string,ClinicalTrial,KEYNOTE-590 compares pembrolizumab plus chemotherapy versus placebo plus chemotherapy in advanced esophageal cancer  (included squamous and adenocarcinoma patients),"identify whether the question has relevance with KEYNOTE-590 or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,"ESCC, GEA",,,,,"Pembrolizumab, Chemotherapy, Placebo",Pembrolizumab + Chemotherapy,Placebo + Chemotherapy,,NCT03189719
+GLOW,string,ClinicalTrial,"GLOW compares zolbetuximab plus CAPOX in CLDN18.2 positive, HER2 negative, gastric or gastroesophageal junction adenocarcinoma","identify whether the question has relevance with GLOW or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,"GC, GEJC",,,,,"Zolbetuximab, CAPOX",Zolbetuximab + CAPOX,,,NCT03504397
+BRUIN,string,ClinicalTrial,"It is a pirtobrutinib study. BRUIN CLL-321: A phase 3 open-label, randomized study of pirtobrutinib versus investigator’s choice of idelalisib plus rituximab or bendamustine plus rituximab in BTK inhibitor pretreated chronic lymphocytic leukemia/small lymphocytic lymphoma","identify whether the question has relevance with BRUIN or not based on the given context,  please assign as yes or no.",,,1,,"CLL,SLL",,,,,"Pirtobrutinib, Idealisib, Rituximab, Bendamustine",Pirtobrutinib,Idealisib + Rituximab/Bendamustine,,NCT03740529
+TRIANGLE,string,ClinicalTrial,TRIANGLE is a phase 3 clinical trial that compares Ibrutinib combined with immunochemotherapy with or without autologous stem-cell transplantation versus immunochemotherapy and autologous stem-cell transplantation in previously untreated patients with mantle cell lymphoma,"identify whether the question has relevance with TRIANGLE or not based on the given context,  please assign as yes or no.",1,1,1,,MCL,,,,,"Ibrutinib, Chemotherapy",Ibrutinib + Chemotherapy,,,NCT02858258
+SELENE,string,ClinicalTrial,SELENE is a phase 3 trial that studies ibrutinib plus BR/R-CHOP in previously treated patients with follicular or marginal zone lymphoma,"identify whether the question has relevance with SELENE or not based on the given context,  please assign as yes or no.",1,1,1,,"FL, MZL",,,,,"Ibrutinib, Lenolidomide",Ibrutinib + Lenalidomide,,,NCT01974440
+MAHOGANY,string,ClinicalTrial,A phase 3 trial of zanubrutinib plus anti-CD20 antibodies vs lenalidomide plus rituximab in patients with relapsed or refractory follicular or marginal zone lymphoma.,"identify whether the question has relevance with MAHOGANY or not based on the given context,  please assign as yes or no.",1,1,1,,"FL,MZL",,,,,"Zanubrutinib, Lenalidomide, Rituximab",Zanubrutinib + Rituximab,Lenalidomide + Rituximab,,NCT05100862
+Sonrotoclax,string,Drug,"references to ""sonrotoclax"" or ""BGB-11417"" or ""11417"" will infer insights containing mention of Sonrotoclax. Sonrotoclax is a potent, orally active Bcl2 inhibitor","identify whether the question has relevance with Sonrotoclax or not based on the given context,  please assign as yes or no.",1,1,1,,CLL,"sonro, BGB-11417",,BCL2,,,,,,
+mosunetuzumab,string,Drug,"Mosunetuzumab, sold under the brand name ""Lunsumio"", is a monoclonal antibody used for the treatment of follicular lymphoma. It bispecifically binds CD20 and CD3 to engage T-cells","identify whether the question has relevance with BRUIN or not based on the given context,  please assign as yes or no.",1,1,1,,FL,,Lunsumio,"CD20, CD3",,,,,,
+tazemetostat,string,Drug,"Tazemetostat, sold under the brand name ""Tazverik"", is a medication used for the treatment of adults and adolescents aged 16 years and older with metastatic (when cancer cells spread to other parts of the body) or locally advanced (when cancer has grown outside the organ it started in, but has not yet spread to distant parts of the body) epithelioid sarcoma not eligible for complete resection (surgically removing all of a tissue, structure, or organ)","identify whether the question has relevance with BRUIN or not based on the given context,  please assign as yes or no.",1,1,1,,ES,,Tazverik,EZH2,,,,,,
+Zanubrutinib,string,Drug,"Our product, Zanubrutinib (Brukinsa) also referred as ""zanu"" or ""bru"", is a oral BTKI inhibitor by mechanism of action. It is used to treat adults with following cancer indications :
+                1. Chronic lymphocytic leukemia/small lymphocytic lymphoma (also acronimyzed as CLL/SLL).
+                2. Waldenström's macroglobulinemia (also acronimyzed as  WM).
+                3. Mantle cell lymphoma (also acronimyzed as  MCL) who have received at least one prior treatment for their cancer.
+                4. Marginal zone lymphoma (also acronimyzed as MZL) when the disease has come back or did not respond to treatment and who have received at least one certain type of treatment.
+                5. Folicular Lymphoma (also acronimyzed as FL)
+ 
+                Following are the market competitors to Zanubrutinib :
+                1. Ibrutinib (Imbruvica) also referred as Ibr,  
+                2. Acalabrutinib (calquence) also referred as ""acala"" or ""cal""
+                3. Pirtobrutinib (Jaypirca) also referred as Pirto or Loxo or BRUIN or MCL 321.
+ 
+                Following are the clinical trials pertient to zanubrutinib:
+                1. Rosewood
+                2. Sequoia
+                3. Mahogany
+                4. Magnolia
+                5. Aspen
+                6. Alpine","identify whether the question has relevance with zanubrutinib or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,"MCL, CLL, WM","zanu, bru, BGB-3111",Brukinsa,C BTKi,,,,,,
+Acalabrutinib,string,Drug,"Acalabrutinib (calquence) also referred as acala, is a oral BTKI inhibitor by mechanism of action. It is used to treat adults with following cancer indications :      
+                1. Chronic lymphocytic leukemia/small lymphocytic lymphoma (also acronimyzed as CLL/SLL).      
+                2. Waldenström's macroglobulinemia (also acronimyzed as  WM).      
+                3. Mantle cell lymphoma (also acronimyzed as  MCL) who have received at least one prior treatment for their cancer.      
+                4. Marginal zone lymphoma (also acronimyzed as ) when the disease has come back or did not respond to treatment and who have received at least one certain type of treatment.      
+                Following are the market competitors to ibrutinib :      
+                1. zanubrutinib (Brukinsa) also referred as bru,        
+                2. Ibrutinib (imbruvica) also referred as ibr and ibru    
+                3. Pirtobrutinib (Jaypirca) also referred as Pirto or Loxo or BRUIN or MCL 321.
+
+                Following are the clinical trials pertient to Acalabrutinib:
+                1. ascend
+                2. elevate-pr
+                3. amplify
+                4. elevate-tn
+                5. echo
+                6. majic
+","identify whether the question has relevance with acalabrutinib or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,"CLL, SLL, MCL","acala, cal",Calquence,C BTKi,,,,,,
+Pirtobrutinib,string,Drug,"Pirtobrutinib (Jaypirca) also referred as LOXO, is a oral BTKI inhibitor by mechanism of action. It is used to treat adults with following cancer indications :      
+                1. Chronic lymphocytic leukemia/small lymphocytic lymphoma (also acronimyzed as CLL/SLL).      
+                2. Waldenström's macroglobulinemia (also acronimyzed as  WM).      
+                3. Mantle cell lymphoma (also acronimyzed as  MCL) who have received at least one prior treatment for their cancer.      
+                4. Marginal zone lymphoma (also acronimyzed as ) when the disease has come back or did not respond to treatment and who have received at least one certain type of treatment.      
+                Following are the market competitors to Pirtobrutinib :      
+                1. Ibrutinib (Imbruvica) also referred as Ibr,        
+                2. Acalabrutinib (calquence) also referred as acala and      
+                3. Zanubrutinib (Brukinsa) also referred as zanu.
+
+       ","identify whether the question has relevance with pirtobrutinib or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,"CLL, MCL",pirto,Jaypirca,Non-C BTKi,,,,,,
+Ibrutinib,string,Drug,"Ibrutinib (imbruvica) also referred as ibru, is a oral BTKI inhibitor by mechanism of action. It is used to treat adults with following cancer indications :      
+                1. Chronic lymphocytic leukemia/small lymphocytic lymphoma (also acronimyzed as CLL/SLL).      
+                2. Waldenström's macroglobulinemia (also acronimyzed as  WM).      
+                3. Mantle cell lymphoma (also acronimyzed as  MCL) who have received at least one prior treatment for their cancer.      
+                4. Marginal zone lymphoma (also acronimyzed as ) when the disease has come back or did not respond to treatment and who have received at least one certain type of treatment.      
+                Following are the market competitors to ibrutinib :      
+                1. zanubrutinib (Brukinsa) also referred as bru,        
+                2. Acalabrutinib (calquence) also referred as acala and      
+                3. Pirtobrutinib (Jaypirca) also referred as Pirto or Loxo or BRUIN or MCL 321.
+
+                Following are the clinical trials pertient to ibrutinib:
+                1. alpine
+                2. aspen
+                3. elevate-pr
+                4. flair
+                5. captivate
+                6. resonate
+                7. sympatico
+","identify whether the question has relevance with ibrutinib or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,"CLL, MCL, WM","ibru, imb, ibr",Imbruvica,C BTKi,,,,,,
+Venetoclax,string,Drug,"Venclexta (venetoclax) also referred as ven, is a oral BCL-2 inhibitor by mechanism of action. It is used to treat adults with following cancer indications :      
+                1. Chronic lymphocytic leukemia/small lymphocytic lymphoma (also acronimyzed as CLL/SLL).      
+                2. Acute Myeloid Lekuemia (also acronymized as AML)
+
+                Following are the clinical trials pertient to Venetoclax:
+                1. amplify
+                2. murano
+                3. majic
+                4. captivate
+                5. sympatico
+","identify whether the question has relevance with venetoclax or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,"CLL, SLL AML",ven,Venclexta,BCL2,,,,,,
+Obinutuzumab,string,Drug,"Gazyva (obinutuzumab) also referred as ven, is a a monoclonal antibody medication. It is used to treat adults with following cancer indications :      
+                1. Chronic lymphocytic leukemia/small lymphocytic lymphoma (also acronimyzed as CLL/SLL).      
+                2. Follicular Lymphoma (also acronymized as FL)
+
+                Following are the clinical trials pertient to Obinutuzumab:
+                1. rosewood
+                2. amplify
+                3. elevate-tn
+                4. majic
+","identify whether the question has relevance with obinutuzumab or not based on the given context,  please assign as yes or no.",1,1,1,Heme Onc,"CLL, FL","obin, obinu",Gazyva,anti-CD20 mAbs ,,,,,,
+Tislelizumab,string,Drug,"Tevimbra (tislelizumab) also referred as tisle, is a programmed death receptor-1 (PD-1) blocking antibody indicated for the treatment of adult patients with unresectable or metastatic esophageal squamous cell carcinoma (ESCC) after prior systemic chemotherapy that did not include a PD-(L)1 inhibitor. It is used to treat adults with following cancer indications :      
+               1. esophageal squamous cell carcinoma (also acronimyzed as ESCC).
+
+                Following are the clinical trials pertient to tislelizumab:
+ - RATIONALE-315
+- RATIONALE-312
+- RATIONALE-311
+- RATIONALE-310
+- RATIONALE-309
+- RATIONALE-307
+- RATIONALE-306
+- RATIONALE-305
+- RATIONALE-304
+- RATIONALE-303
+- RATIONALE-302
+- RATIONALE-301
+- RATIONALE-208
+- RATIONALE-209
+- BGB-A317-314
+- ADVANTIG-105
+- ADVANTIG-202
+- ADVANTIG-203
+- ADVANTIG-204
+- ADVANTIG-205
+- ADVANTIG-206
+- ADVANTIG-301
+- ADVANTIG-302","identify whether the question has relevance with tislelizumab (Tevimbra) or not based on the given context,  please assign as yes or no. ",1,1,1,Solid Tumors,ESCC,"tisle, BGB-A317",Tevimbra,PD-1/PD-L1,,,,,,
+Trastuzumab,string,Drug,,,1,1,1,Solid Tumors,"ABC, MBC, MGC",,Herceptin,HER2 inhibitor,,,,,,
+Rezivertinib,string,Drug,,,1,1,1,Solid Tumors,NSCLC,,,Gen 3rd EGFR TKI,NSCLC-EGFR,,,,,
+Tagitanlimab,string,Drug,,,1,1,1,Solid Tumors,"NPC, BC",,,mAbs,"NPC, mHER2- BC, HR+/HER2- BC",,,,,
+Loncastuximab tesirine,string,Drug,,,1,1,1,Heme Onc,"R/R LBCL, DLBCL",,Zynlonta,ADC,,,,,,
+Lisocabtagene maraleucel,string,Drug,,,1,1,1,Heme Onc,"FL, MCL",,Breyanzi,CAR-T,"3L+FL, 3L+MCL",,,,,
+Tarlatamab,string,Drug,,,1,1,1,Solid Tumors,ES-SCLC,,Imdelltra,BiTE,,,,,,
+Zenocutuzumab,string,Drug,,,1,1,1,Solid Tumors,NSCLC,,Zeno,"HER2, HER3 bsAb",NRG1+ NSCLC,,,,,
+Pembrolizumab,string,Drug,"Keytruda is also known as Pembrolizumab, Pembro. MSD (Merck) is the manufacturer","identify whether the question has relevance with Keytruda or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,"Melanoma, NSCLC, HNSCC, cHL, PMBCL, Urothelial carcinoma, MSI-H/dMMR cancers, Gastric/GEJ adenocarcinoma, Cervical cancer, HCC, RCC, TNBC, Esophageal cancer, Endometrial carcinoma, MCC, cSCC, BTC",pembro,Keytruda,PD-1,,,,,,
+Nivolumab,string,Drug,"Opdivo is also known as Nivolumab, Nivo. BMS (Bristol Myers Squibb) is the manufacturer","identify whether the question has relevance with Opdivo or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,"Unresectable/metastatic melanoma, NSCLC, Malignant pleural mesothelioma, RCC, cHL, HNSCC, Urothelial carcinoma, MSI-H/dMMR metastatic colorectal cancer, Esophageal SCC, Gastric/GEJ adenocarcinoma, HCC, Malignant mesothelioma of the pleura",Nivo,Opdivo,PD-1,,,,,,
+Inavolisib,string,Drug,,,1,1,1,Solid Tumors,"HR+ MBC, HER2- MBC",,,PL3K alpha,,,,,,
+Selpercatinib,string,Drug,,,1,1,1,Solid Tumors,"RET fusion-positive NSCLC, RET-mutant MTC, RET fusion-positive thyroid cancer, RET fusion-positive solid tumors.",Ret,Retevmo,RET kinase,,,,,,
+Tovorafenib,string,Drug,,,1,1,1,Solid Tumors,BRAF-alt pLGG,,Ojemda,kinase inhibitor,,,,,,
+Zolbetuximab,string,Drug,Zolbetixumab is Not FDA approved yet in USA. Brand name is vyloy. Astellas is the manufacturer,"identify whether the question has relevance with Zolbetixumab or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,HER2- GEJ adenocarcinoma,,Vyloy,mAbs (CLDN18.2),,,,,,
+Vobramitamab duocarmazine ,string,Drug,,,1,1,1,Solid Tumors,,"vobra, vobra duo ",,B7-H3 ADC,,,,,,
+Astrasentan,string,Drug,,,1,1,1,Solid Tumors,,,,ERA,,,,,,
+Zigakibart,string,Drug,,,1,1,1,Solid Tumors,,,,mAbs (APRIL),,,,,,
+Filgotinib,string,Drug,,,1,1,1,Solid Tumors,"RA, UC",,Jyseleca,JAK1 inhibitor,,,,,,
+DPT0218,string,Drug,,,1,1,1,Solid Tumors,,,,Kv1.3 inhibitor,,,,,,
+IB-MECA,string,Drug,,,1,1,1,Solid Tumors,,,Piclidenoson ,A3AR agonist,,,,,,
+Tofacitinib,string,Drug,,,1,1,1,Solid Tumors,"RA, PsA, UC, AS, pcJIA",,Xeljanz,JAK1/3 inhibitor,,,,,,
+Lirentelimab,string,Drug,,,1,1,1,Solid Tumors,"EG, EoD, EoE, CSU, AD (investigational)",,AK002,mAbs (Siglec-8 agonist),,,,,,
+Envafolimab,string,Drug,,,1,1,1,Solid Tumors,Solid Tumors,,???,SubQ PD-L1,,,,,,
+Elranatamab,string,Drug,,,1,1,1,Heme Onc,RRMM,,Elrexfio,BCMAxCD3 bsAb,,,,,,
+Amivantamab,string,Drug,,,1,1,1,Solid Tumors,NSCLC,,Rybrevant,EGFR×MET bsAb,1L EGFRm NSCLC,,,,,
+Lazertinib,string,Drug,,,1,1,1,Solid Tumors,NSCLC,,Leclaza,3rd Gen EGFR TKI,1L EGFRm NSCLC,,,,,
+Finotonlimab,string,Drug,,,1,1,1,Solid Tumors,"HCC, renal cell carcinoma, melanoma, NSCLC, SCCHN",,,PD-1/PD-L1,1L adv. HCC ,,,,,
+Iruplinalkib,string,Drug,,,1,1,1,Solid Tumors,NSCLC,,Qixinko (???),ROS1/ALK TKI,"1L ALK+ NSCLC, ROS-1 NSCLC",,,,,
+Olaparib,string,Drug,,,1,1,1,Solid Tumors,"OC, BC, PC, mCRPC",,Lynparza,PARP inhibitor,"BRCA-mutated ovarian cancer, breast cancer, pancreatic cancer, prostate cancer",,,,,
+Relmacabtagene autoleucel,string,Drug,,,1,1,1,Solid Tumors,"LBCL, FL",,Carteyva,CAR-T,,,,,,
+Pertuzumab + Trastuzumab + Hyaluronidase-zzxf,string,Drug,,,1,1,1,Solid Tumors,BC,,Phesgo,HER2 inhibitor,HER2-positive breast cancer,,,,,
+Garsorasib,string,Drug,,,1,1,1,Solid Tumors,NSCLC,,,KRAS-G12C inhibitor,2L KRAS G12Cm NSCLC ,,,,,
+Toripalimab,string,Drug,,,1,1,1,Solid Tumors,NPC,,Loqtorzi,mAbs PD-1,,,,,,
+Pertuzumab ,string,Drug,,,1,1,1,Solid Tumors,BC,,Perjeta,HER2 mAbs,HER2+ BC,,,,,
+Ziftomenib,string,Drug,,,1,1,1,Solid Tumors,AML,,,menin inhibitor,Acute myeloid leukemia (AML) with NPM1 or KMT2A mutations,,,,,
+Iopofosine,string,Drug,,,1,1,1,Solid Tumors,"WM, multiple myeloma, CNS lymphoma",,,small molecule PDC,"Relapsed/refractory multiple myeloma, 3L+ WM, CNS lymphoma",,,,,
+NX-5948,string,Drug,,,1,1,1,Solid Tumors,"CLL, SLL",,,BTK degrader,3L+ CLL/SLL,,,,,
+Idecabtagene vicleucel,string,Drug,,,1,1,1,Heme Onc,MM,,Abecma,BCMA-Directed CAR T,R/R MM ,,,,,
+Momelotinib,string,Drug,,,1,1,1,Heme Onc,MF,,Ojjaara,JAK1/JAK2/ACVR1 inhibitor,Myelofibrosis with anemia,,,,,
+AVZO-021,string,Drug,,,1,1,1,Solid Tumors,,,,ARTS-021; CDK2 inhibitor,,,,,,
+TTFields,string,Drug,,,1,1,1,Solid Tumors,NSCLC,,Optune,,"Glioblastoma multiforme, mesothelioma",,,,,
+BLU-222,string,Drug,,,1,1,1,Solid Tumors,,,,CDK2,,,,,,
+BLU-958,string,Drug,,,1,1,1,Solid Tumors,,,,next-gen CDK2,,,,,,
+Ambrx,string,Drug,,,1,1,1,Solid Tumors,,,,ADC,,,,,,
+JS006,string,Drug,,,1,1,1,Solid Tumors,,,,TIGIT mAbs,,,,,,
+Domvanalimab,string,Drug,,,1,1,1,Solid Tumors,,,,TIGIT,,,,,,
+Sacituzumab govitecan,string,Drug,,,1,1,1,Solid Tumors,"TNBC, HER2- BC",,Trodelvy,TROP2 ADC,,,,,,
+Tisotumab vedotin,string,Drug,,,1,1,1,Solid Tumors,CESC,,Tivdak,ADC,,,,,,
+Enfortumab vedotin,string,Drug,,,1,1,1,Solid Tumors,UC,,Padcev,Nectin-4 ADC,LA/M UC,,,,,
+Talazoparib + Enzalutamide,string,Drug,,,1,1,1,Solid Tumors,mCRPC,,,PARP inhibitor,HRR gene-mutated mCRPC,,,,,
+HPN328,string,Drug,,,1,1,1,Solid Tumors,,,,TriTE,,,,,,
+HPN217,string,Drug,,,1,1,1,Solid Tumors,,,,TriTE,,,,,,
+T-DXd,string,Drug,,,1,1,1,Solid Tumors,BC,,Enhertu,HER2 ADC,"HER2+ BC, HER2-low BC",,,,,
+Repotrectinib,string,Drug,,,1,1,1,Solid Tumors,"NSCLC, solid tumors.",,Augtyro ,ROS1/TRK/ALK inhibitor,"ROS1+ NSCLC, NTRK gene fusion+ solid tumors.",,,,,
+Adagrasib,string,Drug,,,1,1,1,Solid Tumors,"NSCLC, CRC",,Krazati,KRAS G12C inhibitor,"KRAS G12C-mutated NSCLC, CRC",,,,,
+Atezolizumab,string,Drug,"Tecentriq is also known as Atezolizumab, Atezo. Genentech is the manufacturer","identify whether the question has relevance with Tecentriq or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,"NSCLC, SCLC, HCC",,Tecentriq,PD-L1,,,,,,
+felzartamab,string,Drug,,,1,1,1,Solid Tumors,,,,CD38 antagonist,,,,,,
+izastobart,string,Drug,,,1,1,1,Solid Tumors,,,,C5aR1 antagonist,,,,,,
+GRI-0803,string,Drug,,,1,1,1,Solid Tumors,,,,Type 2 NKT agonist,,,,,,
+IMG-007,string,Drug,,,1,1,1,Solid Tumors,,,,OX40 antagonist,,,,,,
+SOR102,string,Drug,,,1,1,1,Solid Tumors,,,,"TNF? antagonist, IL-23p19 antagonist",,,,,,
+Isatuximab,string,Drug,,,1,1,1,Heme Onc,MM,,Sarclisa (??????),CD38,,,,,,
+Ivonescimab,string,Drug,,,1,1,1,Solid Tumors,,,???,VEGFxPD-1 bsAb,,,,,,
+Fluzoparib,string,Drug,,,1,1,1,Solid Tumors,OC,,???,PARP,,,,,,
+Mefatinib,string,Drug,,,1,1,1,Solid Tumors,,,,EGFR/HER2 TKI,,,,,,
+Benmelstobart,string,Drug,,,1,1,1,Solid Tumors,,,,PD-1/PD-L1,,,,,,
+Glecirasib,string,Drug,,,1,1,1,Solid Tumors,,,,KRAS G12C inhibitor,,,,,,
+BPI-16350 ,string,Drug,,,1,1,1,Solid Tumors,,,???,CDK4/6 inhibitor,,,,,,
+uproleselan,string,Drug,,,1,1,1,Solid Tumors,,,,E-selectin antagonist,,,,,,
+Belrestotug,string,Drug,,,1,1,1,Solid Tumors,,,,TIGIT mAbs,,,,,,
+Dostarlimab-gxly,string,Drug,,,1,1,1,Solid Tumors,dMMR EC,,Jermperli,PD-1/PD-L1,,,,,,
+ERAS-0015,string,Drug,,,1,1,1,Solid Tumors,,,,RAS inhibitor,,,,,,
+ERAS-4001,string,Drug,,,1,1,1,Solid Tumors,,,,KRAS inhibitor,,,,,,
+Camrelizumab,string,Drug,,,1,1,1,Solid Tumors,"HCC, HL, ESCC, NPC, NSCLC",,AiRuiKa,PD-1/PD-L1,,,,,,
+Rivoceranib,string,Drug,,,1,1,1,Solid Tumors,HCC ,,Aitan,VEGFR-2 inhibitor,,,,,,
+NVL-655,string,Drug,,,1,1,1,Solid Tumors,NSCLC,,,ROS1 inhibitor,,,,,,
+Zanidatamab,string,Drug,Zanidatamab is Not FDA approved yet. Jazz Pharmaceuticals is the manufacturer,"identify whether the question has relevance with Zanidatamab or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,,,,HER2 BsAbs,,,,,,
+Vibostolimab,string,Drug,,,1,1,1,Solid Tumors,,,,TIGIT mAbs,,,,,,
+Opnurasib,string,Drug,,,1,1,1,Solid Tumors,,JDQ-443,,KRAS G12C inhibitor,,,,,,
+Dato-DXd,string,Drug,,,1,1,1,Solid Tumors,,,,TROP2 ADC,,,,,,
+Ipilimumab,string,Drug,"Yervoy is also known as Ipilimumab, Ipi. BMS (Bristol Myers Squibb) is the manufacturer","identify whether the question has relevance with Yervoy or not based on the given context,  please assign as yes or no.",1,1,1,Solid Tumors,"NSCLC, RCC, CRC, EAC, MPM",ipi,Yervoy,CTLA-4 inhibitor,,,,,,
+CLL,string,General terms/acronyms,"it is an acronym for ""Chronic Lymphocytic Leukemia""",,,,1,,,,,,,,,,,
+WM,string,General terms/acronyms,"it is an acronym for ""Waldenstorms Macroglobulemia""",,,,1,,,,,,,,,,,
+MCL,string,General terms/acronyms,"it is an acronym for ""Mantle Cell Lymphoma""",,,,1,,,,,,,,,,,
+MZL,string,General terms/acronyms,"it is an acronym for ""Marzinal Zone Lymphoma""",,,,1,,,,,,,,,,,
+FL,string,General terms/acronyms,"it is an acronym for ""Follicular Lymphoma""",,,,1,,,,,,,,,,,
+AEs,string,General terms/acronyms,"It is an acronym for Adverse events, also known as ""Side Effects""",,,,1,,,,,,,,,,,
+AE,string,General terms/acronyms,"It is an acronym for Adverse events, also known as ""Side Effects""",,,,1,,,,,,,,,,,
+afib,string,General terms/acronyms,"It is an acronym for Atrial Fibrillation, also known as ""Afib"" or ""flutter"". It is a cardiac disease often described as a toxicity or adverse event of BTKI",,,,1,,,,,,,,,,,
+HTN,string,General terms/acronyms,It is an acronym for Hypertension. It is a cardiac situation that invoves high blood pressure. ,,,,1,,,,,,,,,,,
+CV,string,General terms/acronyms,"It is an acronym for ""Cardiovascular""",,,,1,,,,,,,,,,,
+f/u,string,General terms/acronyms,It is an acronym for follow up,,,,1,,,,,,,,,,,
+PFS,string,General terms/acronyms,It is an acronym for Progression free survival,,,,1,,,,,,,,,,,
+ORR,string,General terms/acronyms,It is an acronym for Overall Response Rate,,,,1,,,,,,,,,,,
+L528W,string,General terms/acronyms,"it is also known as ""L528W Mutation""",,,,1,,,,,,,,,,,
+BID,string,General terms/acronyms,"it is an acronym for ""Bi Daily Dosing""",,,,1,,,,,,,,,,,
+QD,string,General terms/acronyms,"it is an acronym for ""Once a day dosing""",,,,1,,,,,,,,,,,
+HCP,string,General terms/acronyms,"it is an acronym for ""Healthcare Professional""",,,,1,,,,,,,,,,,
+KOL,string,General terms/acronyms,"it is an acronym for ""Key Opinion Leader""",,,,1,,,,,,,,,,,
+RWE,string,General terms/acronyms,"it is an acronym for ""Real world evidence""",,,,1,,,,,,,,,,,
+IIT,string,General terms/acronyms,"it is an acronym for ""Investigator Initiated Trials""",,,,1,,,,,,,,,,,
+ASH,string,General terms/acronyms,"it is an acronym for ""American Society of Hematology""",,,,1,,,,,,,,,,,
+ASCO,string,General terms/acronyms,"it is an acronym for ""American Society for Clinical Oncology""",,,,1,,,,,,,,,,,
+R/R,string,General terms/acronyms,"it is an acronym for ""Relapsed/Refractory""",,,,1,,,,,,,,,,,
+TN,string,General terms/acronyms,"it is an acronym for ""Treatment Naïve""",,,,1,,,,,,,,,,,
+BTKi,string,General terms/acronyms,"it is also known as ""Bruton Tyrosine Kinase Inhibitor"" or ""BTK inhibitor""",,,,1,,,,,,,,,,,
+BCL2i,string,General terms/acronyms,"it is also known as ""B-cell lymphoma 2 inhibitor"" or ""BCL2 Inhibitor""",,,,1,,,,,,,,,,,
+aCD20,string,General terms/acronyms,"it is also known as ""Anti CD20"". Anti-CD20 monoclonal antibodies are a class of drugs used to treat patients with previously untreated chronic lymphocytic leukemia (a type of cancer of the white blood cells), follicular lymphoma (cancer that affects white blood cells called lymphocytes), rheumatoid arthritis (a condition in which the body attacks its own joints, causing pain, swelling, and loss of function), and B-cell non-Hodgkin's lymphoma (a type of cancer that begins in a type of white blood cells that normally fights infection). Generic and brand names of anti-CD20 monoclonal antibodies include:
+
+Arzerra
+Gazyva
+Ibritumomab tiuxetan
+Obinutuzumab
+Ofatumumab
+Riabni
+Rituxan
+Rituxan hycela
+Rituximab
+Rituximab-abbs
+Rituximab-arrx
+Rituximab-hyaluronidase
+Rituximab-pvvr
+Ruxience
+Truxima
+Zevalin",,,,1,,,,,,,,,,,
+cBTKi,string,General terms/acronyms,"it is also known as ""covalent BTKi"". Zanubrutinib, Ibrutinib and acalabrutinib are covalent BTKi.",,,,1,,,,,,,,,,,
+ncBTKi,string,General terms/acronyms,"it is also known as ""Non-Covalent BTKi"". Pirtobrutinib is a non covalent BTKi",,,,1,,,,,,,,,,,
+Chemo,string,General terms/acronyms,"it is an acronym for ""Chemotherapy""",,,,1,,,,,,,,,,,
+Boven,string,General terms/acronyms,"Treatment with zanubrutinib, obinutuzumab, and venetoclax is known as BOVen. BOVen is a well-tolerated, outpatient regimen associated with high response rates and high rates of undetectable MRD in untreated TP53-mutant MCL",,,,1,,,,,,,,,,,
+SLL,string,General terms/acronyms,"it is also known as ""SLL/CLL"" or ""small lymphocytic lymphoma"". ",,,,1,,,,,,,,,,,
+LOXO 338,string,General terms/acronyms,"LOXO-338 is a novel, orally bioavailable small molecule inhibitor of BCL2. In current context, it can refer to clinical trial where it is used as monotherapy or in combination with Pirtobrutinib ",,,,1,,,,,,,,,,,
+monoclonal,string,General terms/acronyms,"it is also known as ""Monoclonal Antibodies"" or ""MAB""",,,,1,,,,,,,,,,,
+MAB,string,General terms/acronyms,"it is an acronym for ""Monoclonal Antibodies""",,,,1,,,,,,,,,,,
+rituxan,string,General terms/acronyms,"it is also known as ""rituximab""",,,,1,,,,,,,,,,,
+fibrillation,string,General terms/acronyms,"It is an acronym for Atrial Fibrillation, also known as ""Afib"" or ""flutter"". It is a cardiac disease often described as a toxicity or adverse event of BTKI",,,,1,,,,,,,,,,,
+kinase,string,General terms/acronyms,"It will be generally referenced in context to ""BTKI"" which means ""mammalian target of rapamycin"". ",,,,1,,,,,,,,,,,
+L528,string,General terms/acronyms,"it is also known as ""L528W mutation"" or ""L528W"" or ""BTK L528 mutation""",,,,1,,,,,,,,,,,
+C481,string,General terms/acronyms,"it is also known as ""C481S Mutation"" or ""C481S"" or ""BTK C481 mutation""",,,,1,,,,,,,,,,,
+T474,string,General terms/acronyms,"it is also known as ""T474i"" or ""T474i mutation"" or ""BTK T474i mutation""",,,,1,,,,,,,,,,,
+M437,string,General terms/acronyms,"it is also known as ""M437R"" or  ""M437R mutation"" or ""BTK M437R mutation""",,,,1,,,,,,,,,,,
+V416,string,General terms/acronyms,"it is also known as ""V416L"" or  ""V416L mutation"" or ""BTK V416L mutation""",,,,1,,,,,,,,,,,
+A428,string,General terms/acronyms,"it is also known as ""A428D"" or  ""A428D mutation"" or ""BTK A428D mutation""",,,,1,,,,,,,,,,,
+mTOR,string,General terms/acronyms,"it is an acronym for ""Mechanistic Target of Rapamycin"" or ""mammalian target of rapamycin"". The mTOR signaling was demonstrated to enhance gene transcription and translation to control cellular growth, autophagy, and apoptosis. Dysregulation of mTOR has been found to be strongly linked with several diseases like aging, arthritis, insulin resistance, osteoporosis, cancers, and neurological disorders.",,,,1,,,,,,,,,,,
+cytokines,string,General terms/acronyms,"Cytokines are small secreted proteins released by cells have a specific effect on the interactions and communications between cells. Cytokine is a general name; other names include lymphokine (cytokines made by lymphocytes), monokine (cytokines made by monocytes), chemokine (cytokines with chemotactic activities), and interleukin (cytokines made by one leukocyte and acting on other leukocytes). Cytokines may act on the cells that secrete them (autocrine action), on nearby cells (paracrine action), or in some instances on distant cells (endocrine action). There are both pro-inflammatory cytokines and anti-inflammatory cytokines",,,,1,,,,,,,,,,,
+biomarkers,string,General terms/acronyms,"biomarker is “a biological molecule found in blood, other body fluids, or tissues that is a sign of a normal or abnormal process, or of a condition or disease,”(NCI) such as cancer. Biomarkers typically differentiate an affected patient from a person without the disease. The alterations can be due to a number of factors, including germline or somatic mutations, transcriptional changes, and post‐translational modifications. There is tremendous variety of biomarkers, which can include proteins (e.g., an enzyme or receptor), nucleic acids (e.g., a microRNA or other non‐coding RNA), antibodies, and peptides, among other categories. A biomarker can also be a collection of alterations, such as gene expression, proteomic, and metabolomic signatures. Biomarkers can be detected in the circulation (whole blood, serum, or plasma) or excretions or secretions (stool, urine, sputum, or nipple discharge), and thus easily assessed non‐invasively and serially, or can be tissue‐derived, and require either biopsy or special imaging for evaluation. Genetic biomarkers can be inherited, and detected as sequence variations in germ line DNA isolated from whole blood, sputum, or buccal cells, or can be somatic, and identified as mutations in DNA derived from tumor tissue.",,,,1,,,,,,,,,,,
+prognostic,string,General terms/acronyms,"It refers to ""prognostic parameters""",,,,1,,,,,,,,,,,
+Dosing,string,General terms/acronyms,"Any reference to dosing or dose or QID or BID or Oral Administration or pill administration or drug administration will refer to insights containing mention of Dosing & Administration. There could also be mentions of fixed dosage, reduced dosage or increased dosage.",,,,1,,,,,,,,,,,
+Safety & Efficacy,string,General terms/acronyms,Any reference to safety or efficacy or tolerability will refer to insights having mention of safety and efficacy,,,,1,,,,,,,,,,,
+Cardiac Safety,string,General terms/acronyms,Any reference to cardiac safety or cardiotoxicity or cv risk or hypertension or atrial fibrillation or flutter or ventricular arrhythmias or chest discomfort or any keyword related to cardiology or heart in general will refer to insights having mention of cardiac safety or cardiotoxicity,,,,1,,,,,,,,,,,
+Cardiotoxicity,string,General terms/acronyms,Any reference to cardiac safety or cardiotoxicity or cv risk or hypertension or atrial fibrillation or flutter or ventricular arrhythmias or chest discomfort or any keyword related to cardiology or heart in general will refer to insights having mention of cardiac safety or cardiotoxicity,,,,1,,,,,,,,,,,
+Brexu cel,string,General terms/acronyms,"it is an acronym for ""Brexucabtagene Autoleucel"" and is a CAR-T cell therapy used for the treatment of mantle cell lymphoma (MCL)",,,,1,,,,,,,,,,,
+RT,string,General terms/acronyms,"it is an acronym for ""Richter's Transformation""",,,,1,,,,,,,,,,,
+Liso cel,string,General terms/acronyms,"it is an acronym for ""Lisocabtagene Maraleucel"", it refers to a CAR-T cell therapy used for the treatment of certain types of large B-cell lymphoma.",,,,1,,,,,,,,,,,
+Breyanzi,string,General terms/acronyms,"it is also known as ""Lisocabtagene Maraleucel"", it refers a CAR-T cell therapy used to treat certain types of large B-cell lymphoma.",,,,1,,,,,,,,,,,
+Lisocabtagene maraleucel,string,General terms/acronyms,it refers a CAR-T cell therapy used to treat certain types of large B-cell lymphoma,,,,1,,,,,,,,,,,
+abnormal EKG,string,General terms/acronyms,"it refers to an ""Electrocardiogram"" or ""ECG"" result that deviates from normal, indicating potential heart problems.",,,,1,,,,,,,,,,,
+CV tox,string,General terms/acronyms,"It is an acronym for ""Cardiovascular Toxicity""",,,,1,,,,,,,,,,,
+cardiac fibrosis,string,General terms/acronyms,"it refers to the thickening and stiffening of cardiac tissue due to an excess buildup of fibrous connective tissue, often resulting from chronic inflammation or damage. It is a type of cardic disease and could also be a cardiotoxicity in context of BTKi",,,,1,,,,,,,,,,,
+cardiac ae profile,string,General terms/acronyms,it refers to the profile of adverse events related to cardiac health observed in clinical trials or treatments,,,,1,,,,,,,,,,,
+cardiotox,string,General terms/acronyms,"it is an acronym for ""Cardiotoxicity""",,,,1,,,,,,,,,,,
+rwCLL,string,General terms/acronyms,"it is an acronym for ""Real-world Chronic Lymphocytic Leukemia"" or ""CLL""",,,,1,,,,,,,,,,,
+LL&M,string,General terms/acronyms,"it is an acronym for ""Leukemia, Lymphoma & Myeloma,"" referring to a group of blood cancers",,,,1,,,,,,,,,,,
+SOHO,string,General terms/acronyms,"it is an acronym for ""Society of Hematologic Oncology""",,,,1,,,,,,,,,,,
+FiH,string,General terms/acronyms,"it is an acronym for ""First in Human,"" referring to the first phase of clinical trials in which a new treatment is tested in humans for the first time",,,,1,,,,,,,,,,,
+CDAC,string,General terms/acronyms,"it is an acronym for ""Chimeric Degradation Activation Compounds"", also known as BTK degraders or Protein degraders. ",,,,1,,,,,,,,,,,
+AESI,string,General terms/acronyms,"it is an acronym for ""Adverse Events of Special Interest"" or could be generally referred to as ""adverse events""",,,,1,,,,,,,,,,,
+Treatment Naive,string,General terms/acronyms,refers to patients who have never received treatment for their condition,,,,1,,,,,,,,,,,
+Relapsed Refractory,string,General terms/acronyms,refers to patients whose disease has returned after treatment (relapsed) and does not respond to further treatment (refractory),,,,1,,,,,,,,,,,
+Combination therapy,string,General terms/acronyms,refers to the use of more than one medication or treatment approach simultaneously to treat a disease,,,,1,,,,,,,,,,,
+IGHV,string,General terms/acronyms,"it is an acronym for ""Immunoglobulin Heavy Chain Variable Region,"" refers to a gene segment whose mutation status is used as a prognostic marker in chronic lymphocytic leukemia (CLL)",,,,1,,,,,,,,,,,
+Del 17p,string,General terms/acronyms,"refers to the ""deletion of part of chromosome 17"" or ""17P deletion"", often associated with a poor prognosis in chronic lymphocytic leukemia (CLL). The 17p deletion leads to the loss of the tumor suppressor gene TP53, which is linked to many genetic conditions and some types of cancer, such as leukemia, multiple myeloma, and myelodysplastic syndrome.",,,,1,,,,,,,,,,,
+switching,string,General terms/acronyms,"generally refers to changing from one treatment to another in current context, often due to lack of efficacy or adverse effects or unfavourable outcomes or financial constraints",,,,1,,,,,,,,,,,
+PK,string,General terms/acronyms,"it is an acronym for ""Pharmacokinetics"". It is one of the main branches of pharmacology, and refers to the way that the body reacts on and affects a pharmaceutical substance in the body",,,,1,,,,,,,,,,,
+DDI,string,General terms/acronyms,"it is an acronym for ""Drug-Drug Interaction,"" which occurs when one drug affects the activity of another drug when both are administered together",,,,1,,,,,,,,,,,
+breadth ,string,General terms/acronyms,"refers to the range or extent of something, such as the effectiveness of a drug across various conditions or populations",,,,1,,,,,,,,,,,
+GC,string,General terms/acronyms,Acronym for Gastric Cancer,,,,1,,,,,,,,,,,
+ESCC,string,General terms/acronyms,Acronym for Esophageal Squamous Cell Carcinoma,,,,1,,,,,,,,,,,
+GEJC,string,General terms/acronyms,Acronym for GastroEsophageal Junction Cancer,,,,1,,,,,,,,,,,
+NSCLC,string,General terms/acronyms,Acronym for Non-Small Cell Lung Cancer,,,,1,,,,,,,,,,,
+PDAC,string,General terms/acronyms,Acronym for Pancreatic Ductal Adenocarcinoma,,,,1,,,,,,,,,,,
+HCC,string,General terms/acronyms,Acronym for Hepatocellular Carcinoma,,,,1,,,,,,,,,,,
+CRC,string,General terms/acronyms,Acronym for Colorectal Cancer,,,,1,,,,,,,,,,,
+GEA,string,General terms/acronyms,Acronym for Gastroesophageal Adenocarcinoma,,,,1,,,,,,,,,,,
+CCA,string,General terms/acronyms,Acronym for Cholangiocarcinoma,,,,1,,,,,,,,,,,
+BTC,string,General terms/acronyms,Acronym for Biliary Tract Cancer,,,,1,,,,,,,,,,,
+TAP ,string,General terms/acronyms,Tumor Area Positivity (TAP) score of programmed death-ligand 1 (PD-L1),,,,1,,,,,,,,,,,
+PD-1,string,General terms/acronyms,Programmed Death,,,,1,,,,,,,,,,,
+PD-L1,string,General terms/acronyms,Programmed Death-Ligand 1,,,,1,,,,,,,,,,,
+LAG-3,string,General terms/acronyms,Lymphocyte activation gene 3 (LAG-3) is an inhibitory receptor that is highly expressed by exhausted T cells,,,,1,,,,,,,,,,,
+CPS ,string,General terms/acronyms,Combined positive score (CPS) to evaluate PDL1 expression,,,,1,,,,,,,,,,,
+TPS,string,General terms/acronyms,Tumor proportion score (TPS) to evaluate PDL1 expression,,,,1,,,,,,,,,,,
+CRT,string,General terms/acronyms,Chemoradiotherapy or Chemotherapy and Radiotherapy,,,,1,,,,,,,,,,,
+FLOT,string,General terms/acronyms,"flurouracil, oxaliplatin and docetaxel chemotherapy regimen",,,,1,,,,,,,,,,,
+CAPOX,string,General terms/acronyms,Capecitabine and oxaliplatin chemotherapy regimen,,,,1,,,,,,,,,,,
+FOLFOX,string,General terms/acronyms,"flurouracil, oxaliplatin and leucovorin chemotherapy regimen",,,,1,,,,,,,,,,,
+PF,string,General terms/acronyms,Cisplatin and flurouracil chemotherapy regimen,,,,1,,,,,,,,,,,
+TP ,string,General terms/acronyms,Cisplatin and docetaxel chemotherapy regimen,,,,1,,,,,,,,,,,
+HPK1,string,General terms/acronyms,Hematopoietic progenitor kinase 1,,,,1,,,,,,,,,,,
+ADC,string,General terms/acronyms,Antibody Drug Conjugate,,,,1,,,,,,,,,,,
+panKRAS,string,General terms/acronyms,pan KRAS inhibitor,,,,1,,,,,,,,,,,
+CEA,string,General terms/acronyms,Carcinoembryonic antigen ,,,,1,,,,,,,,,,,
+TC,string,General terms/acronyms,Tumor Cell Score to evaluate PDL1 expression,,,,1,,,,,,,,,,,
+formulation,string,General terms/acronyms,"refers to the composition of a drug product, including the active drug and other ingredients, and its physical form",,,,1,,,,,,,,,,,
+MRD,string,General terms/acronyms,It refers to minimal residual disease,,,,1,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
