@@ -1,0 +1,645 @@
+Entity,Relation,Target
+Sculptra,has_contraindication,CONTRAINDICATIONS
+Sculptra,has_adverse_effect,treatment effect of Sculptra occurs (see INSTRUCTION FOR USE – Patient Treatment).
+Sculptra,has_adverse_effect,product slowly and apply the least amount of pressure necessary. Rare but serious adverse
+Sculptra,has_adverse_effect,events associated with the intravascular injection of soft tissue fillers in the face have been
+Sculptra,has_adverse_effect,Sculptra post-treatment reactions have included delayed occurrence of subcutaneous papules
+Sculptra,has_adverse_effect,had a prolonged time course to resolution. See ADVERSE EVENTS section for details.
+Sculptra,has_adverse_effect,granulomatous reaction characterized by foreign body giant cells and macrophages. The tissue
+Sculptra,has_adverse_effect,"reaction was confined to the area between particles, did not involve the surrounding tissue and"
+Sculptra,has_contraindication,Sculptra vials are for single patient and single session use only in order to avoid contamination.
+Sculptra,has_contraindication,Do not reuse the vial and do not re-sterilize the vial. Discard immediately after use. Do not use
+Sculptra,has_adverse_effect,"The safety and effectiveness of injecting Sculptra: 1) in larger amounts, 2) at different"
+Sculptra,has_adverse_effect,The safety and effectiveness of Sculptra for use in the lips has not been evaluated. Sculptra
+Sculptra,has_adverse_effect,Avoid superficial injections as this may be associated with increased local adverse events such
+Sculptra,has_adverse_effect,"treatment of marionette lines, see ADVERSE EVENTS, Clinical Trial, Post Approval Study."
+Sculptra,has_adverse_effect,"Safety and effectiveness of Sculptra has not been evaluated in patients who are pregnant,"
+Sculptra,has_adverse_effect,Safety and effectiveness of Sculptra has not been evaluated in patients with the following:
+Sculptra,has_adverse_effect,Safety and effectiveness of Sculptra has not been systematically evaluated with other drugs
+Sculptra,has_adverse_effect,practice to prevent cross-infections are to be followed.
+Sculptra,has_contraindication,to sun and avoid UV lamp exposure and extreme temperatures until any initial swelling and
+Sculptra,has_adverse_effect,reaction at the implant site. This also applies if Sculptra is administered before the skin has
+Sculptra,has_adverse_effect,"• Consider safety risks associated with the use of lidocaine, including possible toxic effects in"
+Sculptra,has_adverse_effect,ADVERSE EVENTS
+Sculptra,has_adverse_effect,"INTENSITY OF ADVERSE EVENTS AFTER THE INITIAL TREATMENT SESSION,"
+Sculptra,has_adverse_effect,Event
+Sculptra,has_adverse_effect,Severity of Adverse Eventa
+Sculptra,has_adverse_effect,Severity of Adverse Eventa
+Sculptra,has_adverse_effect,a Subjects experiencing multiple episodes of a given adverse event are counted once for that event within the most severe
+Sculptra,has_adverse_effect,b Subjects who reported multiple events in the “Other” category are counted only once within the most severe category.
+Sculptra,has_adverse_effect,"Adverse Events reported as “Others” are headache, dry skin, skin peeling, rash at injection, pimples, improvement of allergy"
+Sculptra,has_adverse_effect,"DURATION OF ADVERSE EVENTS AFTER THE INITIAL TREATMENT SESSION,"
+Sculptra,has_adverse_effect,Event
+Sculptra,has_adverse_effect,Duration of Adverse Eventa
+Sculptra,has_adverse_effect,Duration of Adverse Eventa
+Sculptra,has_adverse_effect,a Subjects experiencing multiple episodes of a given adverse event are counted once for that event within the longest duration category.
+Sculptra,has_adverse_effect,b Subjects who reported multiple events in the “Other” category are counted only once within the longest duration category.
+Sculptra,has_adverse_effect,"For list of adverse events categorized as “other”, see table 1."
+Sculptra,has_adverse_effect,PHYSICIAN REPORTED* ADVERSE EVENTS AFTER ALL TREATMENTS
+Sculptra,has_adverse_effect,Adverse Events
+Sculptra,has_adverse_effect,Adverse events that occurred with Sculptra Aesthetic at an incidence of <1%:
+Sculptra,has_adverse_effect,One subject with a papule required a single intralesional corticosteroid injection and the event
+Sculptra,has_adverse_effect,spontaneously. None of these events were reported as a serious adverse event (SAE) by the
+Sculptra,has_adverse_effect,"Time (days) from first device injection to start of event (median, mean, min, max)"
+Sculptra,has_adverse_effect,Nodules-median days to event
+Sculptra,has_adverse_effect,Nodules-mean days to event
+Sculptra,has_adverse_effect,Papules-median days to event
+Sculptra,has_adverse_effect,Papules-mean days to event
+Sculptra,has_adverse_effect,"Event Duration, days (median, mean, min, max)"
+Sculptra,has_adverse_effect,Events
+Sculptra,has_adverse_effect,Events
+Sculptra,has_adverse_effect,Events
+Sculptra,has_adverse_effect,c: Anatomic sides experiencing multiple episodes of event are counted once within each event category.
+Sculptra,has_adverse_effect,Events
+Sculptra,has_adverse_effect,Events
+Sculptra,has_adverse_effect,Events
+Sculptra,has_adverse_effect,c: Anatomic sides experiencing multiple episodes of event are counted once within each event category.
+Sculptra,has_contraindication,product use to avoid concentrated product deposits.
+Sculptra,has_adverse_effect,Other Adverse Events of Interest
+Sculptra,has_adverse_effect,"Adverse Events of Interest (AEIs) other than NPs were defined as hypertrophic scarring, keloid"
+Sculptra,has_adverse_effect,"skin necrosis, hypersensitivity reactions, and unexpected change in wrinkle contour. The overall"
+Sculptra,has_adverse_effect,hypersensitivity reactions in individuals of Fitzpatrick Skin types I-VI.
+Sculptra,has_adverse_effect,to adjacent skin. These events occurred in 1/557 (0.2%) subjects of FST I-III and in 5/310 (1.6%)
+Sculptra,has_adverse_effect,known to be more susceptible to PIH. All events of changes in skin pigmentation were considered
+Sculptra,has_adverse_effect,study to evaluate the safety and effectiveness of Sculptra Aesthetic reconstituted in 8 mL SWFI with
+Sculptra,has_adverse_effect,"treatment events in the treated area, i.e. bruising, redness, swelling, pain, tenderness, itching,"
+Sculptra,has_adverse_effect,"related events for 7 subjects (11.9%), all categorized as mild in severity. In the control group, 7 out"
+Sculptra,has_adverse_effect,"of 21 (33.3%) had a total of 12 treatment-related events reported, most were mild, but three of these"
+Sculptra,has_adverse_effect,were considered moderate in severity (one event of rhinorrhea and two events of headache). The
+Sculptra,has_adverse_effect,events occurred in one subject out of the 59 in the treatment group respectively. In the 5 mL
+Sculptra,has_adverse_effect,"Two subjects reported one serious adverse event each, retinal detachment and anxiety requiring"
+Sculptra,has_adverse_effect,hospitalization. None of these events were considered related to study treatment.
+Sculptra,has_adverse_effect,"The frequency, intensity and duration of pre-defined events reported by the subject in the daily diary"
+Sculptra,has_adverse_effect,"are presented in Tables 8 and 9. Pain, tenderness and swelling were the three events most commonly"
+Sculptra,has_adverse_effect,FREQUENCY AND INTENSITY OF PRE-DEFINED EVENTS
+Sculptra,has_adverse_effect,Subjects reporting multiple events of the same symptom are counted once for that event within the most severe category.
+Sculptra,has_adverse_effect,FREQUENCY AND DURATION OF PRE-DEFINED EVENTS
+Sculptra,has_adverse_effect,8-mL group was effective to manage pain during injection.
+Sculptra,has_adverse_effect,subject experienced an AE of skin mass during the base study; the event was considered related to
+Sculptra,has_adverse_effect,"blinded, multicenter study to evaluate the safety and effectiveness of Sculptra Aesthetic reconstituted"
+Sculptra,has_adverse_effect,"treatment events in the treated area, i.e. bruising, redness, swelling, pain, tenderness, itching,"
+Sculptra,has_adverse_effect,"21.3% (20/94) of females experienced a related adverse event, while no male subjects (0/5) had a"
+Sculptra,has_adverse_effect,"related adverse event. Due to the small number of male subjects, conclusions cannot be drawn."
+Sculptra,has_adverse_effect,"One (1.0%) subject in the treatment group experienced an adverse event of special interest (AESI),"
+Sculptra,has_adverse_effect,"product or injection procedure, mild in intensity. The duration of the event was 37 days and was"
+Sculptra,has_adverse_effect,RELATED ADVERSE EVENTS BY PREFERRED TERM (SAFETY POPULATION)
+Sculptra,has_adverse_effect,Subjects with at least 1 related adverse event
+Sculptra,has_adverse_effect,"One subject experienced 2 events of skin mass on Day 49, 9 days after the most recent injection; reported terms were"
+Sculptra,has_adverse_effect,calculated as 100 × (n/N). Subjects reporting more than 1 event in a category were counted only once in that
+Sculptra,has_adverse_effect,category (n). Events were coded by Medical Dictionary for Regulatory Activities version 23.1.
+Sculptra,has_adverse_effect,"The frequency, intensity and duration of pre-defined events reported by the subject in the daily diary"
+Sculptra,has_adverse_effect,FREQUENCY AND INTENSITY OF PRE-DEFINED EVENTS
+Sculptra,has_adverse_effect,symptom). Subjects reporting multiple events of the same symptom are counted once for that event within the most
+Sculptra,has_adverse_effect,FREQUENCY AND DURATION OF PRE-DEFINED EVENTS
+Sculptra,has_adverse_effect,"continued safety and effectiveness evaluations up to 24 months. A total of 111 subjects (39 Group A,"
+Sculptra,has_adverse_effect,same effectiveness assessments as during the base study.
+Sculptra,has_adverse_effect,RELATED ADVERSE EVENTS BY PREFERRED TERM (EXTENSION POPULATION)
+Sculptra,has_adverse_effect,Subjects with at least 1 related adverse event
+Sculptra,has_adverse_effect,calculated as 100 × (n/N). Subjects reporting more than 1 event in a category were counted only once in that category
+Sculptra,has_adverse_effect,(n). Events were coded by Medical Dictionary for Regulatory Activities version 23.1. Group A subjects were untreated
+Sculptra,has_adverse_effect,Subjects reporting multiple events of the same symptom were counted only once for that event within the most severe
+Sculptra,has_adverse_effect,The adverse events received from post-marketing surveillance (voluntary reporting and published
+Sculptra,has_adverse_effect,"• lack of effect,"
+Sculptra,has_adverse_effect,"• granuloma/foreign body reaction,"
+Sculptra,has_adverse_effect,"• inflammation, injection site reactions including burning sensation, discomfort, exfoliation,"
+Sculptra,has_adverse_effect,"• skin discoloration, hypersensitivity/allergic reaction and angioedema,"
+Sculptra,has_adverse_effect,"• other dermatological events including localized alopecia, skin dryness, skin tightness, skin"
+Sculptra,has_adverse_effect,"wrinkling, skin hypertrophy and photosensitive reaction,"
+Sculptra,has_adverse_effect,"non-dermatological events including anxiety, arthralgia, depression, diplopia, dizziness, dyspnea,"
+Sculptra,has_adverse_effect,"When required, depending on event, treatments may include massage/manipulation, warm compress,"
+Sculptra,has_adverse_effect,"product, saline injections and surgery. Events which did not resolve or where resolution information"
+Sculptra,has_adverse_effect,"Scarring, mostly a non-serious event, was reported in association with skin discoloration, nodules,"
+Sculptra,has_adverse_effect,"Skin discoloration was reported as a non-serious event, typically reported in association with lumps"
+Sculptra,has_adverse_effect,SAEs have rarely been reported. The most commonly reported serious adverse events for Sculptra
+Sculptra,has_adverse_effect,"with more than 5 reported events include papule/nodules, swelling/edema, granuloma, symptoms of"
+Sculptra,has_adverse_effect,"paralysis, ischemia/necrosis, inflammation. Other concurrent events included pain,"
+Sculptra,has_adverse_effect,"post-injection. While events were reported as granuloma, only a few cases were confirmed by"
+Sculptra,has_adverse_effect,vessels affected; or rarely as ischemic events in other organs due to embolization. Isolated rare cases
+Sculptra,has_adverse_effect,"of ischemic events affecting the eye leading to visual loss, and the brain resulting in cerebral"
+Sculptra,has_adverse_effect,"and/or cheek. Events requiring medical intervention, and events which did not resolve or where"
+Sculptra,has_adverse_effect,and/or anti-inflammatories. Events usually resolved within 7-10 days post-injection without sequelae
+Sculptra,has_adverse_effect,Serious hypersensitivity reactions were reported mainly in association with facial swelling and
+Sculptra,has_adverse_effect,"Staphylococcus aureus at the injection site, were reported. Time to onset of events mostly ranged"
+Sculptra,has_adverse_effect,adverse events associated with dermal fillers. Cases of delayed-onset inflammation have been
+Sculptra,has_adverse_effect,"Adverse reactions should be reported to Galderma Laboratories, L.P. at 1-855-425-8722."
+Sculptra,has_adverse_effect,The safety and effectiveness of Sculptra Aesthetic use to correct WAS 2 (shallow) to 4 (deep)
+Sculptra,has_adverse_effect,Secondary effectiveness endpoints were: 1) Mean change from pre-treatment baseline in the WAS as
+Sculptra,has_adverse_effect,All secondary effectiveness endpoints described above were evaluated for the long- term extension
+Sculptra,has_adverse_effect,E. Effectiveness results
+Sculptra,has_adverse_effect,Primary Effectiveness Endpoint
+Sculptra,has_adverse_effect,"granulomas, skin necrosis, hypersensitivity, and other injection site reactions) in"
+Sculptra,has_adverse_effect,F. Effectiveness Findings
+Sculptra,has_adverse_effect,areas with a long-lasting treatment effect of Sculptra Aesthetic treatment. In all four anatomic
+Sculptra,has_adverse_effect,the safety and effectiveness of Sculptra Aesthetic for correction of nasolabial fold contour
+Sculptra,has_adverse_effect,Primary effectiveness endpoint
+Sculptra,has_adverse_effect,Secondary effectiveness endpoints
+Sculptra,has_adverse_effect,"Secondary effectiveness endpoints included Global Aesthetic Improvement Scale (GAIS),"
+Sculptra,has_adverse_effect,All effectiveness endpoints described above were evaluated for the long- term extension study time
+Sculptra,has_adverse_effect,E. Effectiveness results
+Sculptra,has_adverse_effect,The Week 48 change from baseline in WAS demonstrated comparable treatment effect in reducing
+Sculptra,has_adverse_effect,effectiveness analysis were met as shown in Table 21 and Figure 2.
+Sculptra,has_adverse_effect,"0.6, 0.5). Thus, both intervals include 0 and comparable treatment effect between the two groups has"
+Sculptra,has_adverse_effect,"At Week 48, Sculptra Aesthetic reconstituted in 8 mL SWFI (+1 mL of lidocaine), effectively"
+Sculptra,has_adverse_effect,"The effectiveness of Sculptra Aesthetic, reconstituted with 8 mL SWFI + 1 mL of 2% lidocaine"
+Sculptra,has_adverse_effect,the effectiveness and safety of treatment with Sculptra Aesthetic for correction of cheek wrinkles.
+Sculptra,has_adverse_effect,"A), and treatment group subjects (Group B) returned for continued safety and effectiveness"
+Sculptra,has_adverse_effect,The primary purpose was to evaluate the safety of Sculptra Aesthetic and effectiveness of Sculptra
+Sculptra,has_adverse_effect,Primary effectiveness endpoint
+Sculptra,has_adverse_effect,Secondary effectiveness endpoints
+Sculptra,has_adverse_effect,"Secondary effectiveness endpoints included GAIS, subject satisfaction and responder rate on both"
+Sculptra,has_adverse_effect,Effectiveness endpoints evaluated for the long-term extension included responder rate on both sides
+Sculptra,has_adverse_effect,E. Effectiveness results
+Sculptra,has_adverse_effect,"The primary effectiveness endpoint was the responder rate based on the GCWS At Rest, as assessed"
+Sculptra,has_adverse_effect,diary that reported related adverse events associated with social circumstances or social avoidant
+Sculptra,has_adverse_effect,GCWS data showed that the effects of Sculptra treatments were maintained through 24 months as
+Sculptra,has_contraindication,"IF THE VIAL, SEAL, OR THE FLIP-OFF CAP ARE DAMAGED, DO NOT USE AND"
+Sculptra,has_adverse_effect,"anatomy of the treatment area, effective patient assessment, and appropriate injection techniques."
+Sculptra,has_contraindication,"antiseptic. If the vial, seal, or flip-off cap is damaged, do not use, and call Galderma"
+Sculptra,has_contraindication,lower lateral of the vial to avoid withdrawing foam. Do not store the reconstituted product in the
+Sculptra,has_contraindication,"antiseptic. If the vial, seal, or flip-off cap is damaged, do not use, and call Galderma Laboratories,"
+Sculptra,has_contraindication,lower lateral of the vial to avoid withdrawing foam. Do not store the reconstituted product in the
+Sculptra,has_contraindication,"The patient should be fully apprised of the indications, contraindications, warnings,"
+Sculptra,has_adverse_effect,"precautions, treatment responses, adverse reactions, and method of administration with Sculptra."
+Sculptra,has_adverse_effect,"• For patients who have experienced medically important adverse events, a decision for"
+Sculptra,has_adverse_effect,touchup or re-treatment should take the cause and severity of previous reactions into
+Sculptra,has_adverse_effect,time (several weeks) after injection as the treatment effect of Sculptra occurs.
+Sculptra,has_adverse_effect,area over several weeks as the treatment effects occur.
+Sculptra,has_contraindication,"Before injecting Sculptra, always perform a reflux maneuver to avoid intravascular injection. If"
+Sculptra,has_adverse_effect,Health care practitioners are encouraged to be prepared with the following in the event of an
+Sculptra,has_adverse_effect,event of an ophthalmic adverse event related to a dermal filler injection
+Sculptra,has_adverse_effect,• conducting a basic neurologic examination in the event of an ophthalmic adverse event due to
+Sculptra,has_adverse_effect,the association of such events with central nervous system deficits
+Sculptra,has_adverse_effect,"2 Jones, Derek; Fitzgerald, Rebecca; Cox, Sue Ellen; et al. Preventing and Treating Adverse Events of Injectable Fillers:"
+Sculptra,has_contraindication,spaced at a distance of 0.5 -1 cm. Avoid overcorrection.
+Sculptra,has_adverse_effect,of the contour deficiency as the Sculptra effect occurs over the minimum of 3-4 weeks between
+Sculptra,has_contraindication,wrapped in cloth (avoid any direct contact of the ice with the skin) is applied to the treated
+Sculptra,has_adverse_effect,areas. See ADVERSE EVENTS for details of the incidence and severity of adverse event
+Sculptra,has_contraindication,"avoiding superficial injections or over-correction). In addition, massaging the treatment area"
+Sculptra,has_contraindication,"• Within the first 24 hours, an ice pack wrapped in cloth (avoiding any direct contact of the ice"
+Sculptra,has_adverse_effect,gradually improve within several weeks as the treatment effect of Sculptra occurs. The
+Sculptra,has_adverse_effect,"skin, have been reported. Patients should report these events and any other side effects to"
+Sculptra,has_contraindication,be avoided until any initial swelling and redness has resolved. Patients should be informed
+Sculptra,has_adverse_effect,"ANY SIDE EFFECTS, ADVERSE EVENTS, PRODUCT QUESTIONS OR PRODUCT"
+Sculptra,has_contraindication,CONTRAINDICATIONS
+Sculptra,has_adverse_effect,treatment effect of Sculptra occurs (see INSTRUCTION FOR USE – Patient Treatment).
+Sculptra,has_adverse_effect,product slowly and apply the least amount of pressure necessary. Rare but serious adverse
+Sculptra,has_adverse_effect,events (SAEs) associated with the intravascular injection of soft tissue fillers in the face have
+Sculptra,has_adverse_effect,Sculptra post-treatment reactions have included delayed occurrence of subcutaneous papules
+Sculptra,has_adverse_effect,had a prolonged time course to resolution. See ADVERSE EVENTS section for details.
+Sculptra,has_adverse_effect,granulomatous reaction characterized by foreign body giant cells and macrophages. The tissue
+Sculptra,has_adverse_effect,"reaction was confined to the area between particles, did not involve the surrounding tissue and"
+Sculptra,has_contraindication,Sculptra vials are for single patient and single session use only in order to avoid contamination.
+Sculptra,has_contraindication,Do not reuse the vial and do not re-sterilize the vial. Discard immediately after use. Do not use
+Sculptra,has_adverse_effect,"The safety and effectiveness of injecting Sculptra: 1) in larger amounts, 2) at different"
+Sculptra,has_adverse_effect,effectiveness of Sculptra for correction of facial fat loss (lipoatrophy) in people with human
+Sculptra,has_adverse_effect,The safety and effectiveness of Sculptra for use in the lips has not been evaluated. Sculptra
+Sculptra,has_adverse_effect,Avoid superficial injections as this may be associated with increased local adverse events
+Sculptra,has_adverse_effect,"Safety and effectiveness of Sculptra has not been evaluated in patients who are pregnant,"
+Sculptra,has_adverse_effect,Safety and effectiveness of Sculptra has not been evaluated in patients with the following:
+Sculptra,has_adverse_effect,Safety and effectiveness of Sculptra has not been systematically evaluated with other drugs
+Sculptra,has_adverse_effect,practice to prevent cross-infections are to be followed.
+Sculptra,has_contraindication,to sun and avoid UV lamp exposure and extreme temperatures until any initial swelling and
+Sculptra,has_adverse_effect,reaction at the implant site. This also applies if Sculptra is administered before the skin has
+Sculptra,has_adverse_effect,ADVERSE EVENTS
+Sculptra,has_adverse_effect,"Adverse event data from five clinical studies that included 567 patients are summarized in Tables 36,"
+Sculptra,has_adverse_effect,NUMBER OF PATIENTS WITH TREATMENT-RELATED ADVERSE EVENTS
+Sculptra,has_adverse_effect,ADVERSE EVENTS
+Sculptra,has_adverse_effect,DEVICE-RELATED ADVERSE EVENTS
+Sculptra,has_adverse_effect,NUMBER OF PATIENTS WITH TREATMENT-RELATED ADVERSE EVENTS
+Sculptra,has_adverse_effect,INJECTION PROCEDURE RELATED ADVERSE
+Sculptra,has_adverse_effect,EVENTS
+Sculptra,has_adverse_effect,DEVICE-RELATED ADVERSE EVENTS
+Sculptra,has_adverse_effect,The duration of (AEs) in Table 37 was not collected. The most common device related effect was the
+Sculptra,has_adverse_effect,OVERALL INCIDENCE (≥ 5%) OF ADVERSE EVENTS BY
+Sculptra,has_adverse_effect,a. Subjects experiencing multiple episodes of a given adverse event are counted once within each Preferred Term.
+Sculptra,has_adverse_effect,"SUMMARY OF TREATMENT-EMERGENT ADVERSE EVENTS ‘FACES’ (5 YEAR,"
+Sculptra,has_adverse_effect,site nodule or papule AEs. Most nodule and papule events were mild or moderate in intensity
+Sculptra,has_adverse_effect,reported during the first year (153 of 170 events [90%]); the median number of days from first
+Sculptra,has_adverse_effect,"study. Of the remaining events reported as resolved, the median duration for injection site"
+Sculptra,has_adverse_effect,The adverse events received from post-marketing surveillance (voluntary reporting and published
+Sculptra,has_adverse_effect,• device ineffective
+Sculptra,has_adverse_effect,"• granuloma /foreign body reaction,"
+Sculptra,has_adverse_effect,"• injection site reactions including burning sensation, discomfort, exfoliation, irritation and warmth"
+Sculptra,has_adverse_effect,"• hypersensitivity/allergic reaction and angioedema,"
+Sculptra,has_adverse_effect,"• other dermatological events including alopecia, skin dryness, skin tightness, skin wrinkling, , skin"
+Sculptra,has_adverse_effect,"hypertrophy and photosensitive reaction,"
+Sculptra,has_adverse_effect,"• non dermatological events including anxiety, arthralgia, depression, diplopia, dizziness, dyspnea,"
+Sculptra,has_adverse_effect,"When required, depending on event, treatments may include massage/manipulation, warm compress,"
+Sculptra,has_adverse_effect,"product, saline injections and surgery. Events which did not resolve or where resolution information"
+Sculptra,has_adverse_effect,"Scarring, mostly a non-serious event, was reported in association with skin discoloration, nodules,"
+Sculptra,has_adverse_effect,"Skin discoloration was reported as a non-serious event, typically reported in association with lumps"
+Sculptra,has_adverse_effect,"reported events include papule/nodule, swelling/edema, granuloma, symptoms of visual disturbance,"
+Sculptra,has_adverse_effect,"ischemia/necrosis, inflammation. Other concurrent events included pain, bruising/hematoma,"
+Sculptra,has_adverse_effect,"post-injection. While events were reported as granuloma, only a few cases were confirmed by"
+Sculptra,has_adverse_effect,vessels affected; or rarely as ischemic events in other organs due to embolization. Isolated rare cases
+Sculptra,has_adverse_effect,"of ischemic events affecting the eye leading to visual loss, and the brain resulting in cerebral"
+Sculptra,has_adverse_effect,"and/or cheek. Events requiring medical intervention, and events which did not resolve or where"
+Sculptra,has_adverse_effect,and/or anti-inflammatories. Events resolved within 7-10 days post-injection without sequelae and
+Sculptra,has_adverse_effect,Serious hypersensitivity reactions were reported mainly in association with facial swelling and
+Sculptra,has_adverse_effect,"Staphylococcus aureus at the injection site, were reported. Time to onset of event mostly ranged"
+Sculptra,has_adverse_effect,adverse events associated with dermal fillers. Cases of delayed-onset inflammation have been
+Sculptra,has_adverse_effect,"Adverse reactions should be reported to Galderma Laboratories, L.P. at 1-855-425-8722."
+Sculptra,has_adverse_effect,EFFECTIVENESS
+Sculptra,has_adverse_effect,"This was a 96-week, open-label, uncontrolled, single-center study to determine the treatment effects"
+Sculptra,has_adverse_effect,to maintain an optimal treatment effect.
+Sculptra,has_adverse_effect,with the sessions separated by four weeks. Full effects of the treatment course are evident within
+Sculptra,has_adverse_effect,injection sessions may be required to maintain an optimal treatment effect.
+Sculptra,has_contraindication,"IF THE VIAL, SEAL, OR THE FLIP-OFF CAP ARE DAMAGED, DO NOT USE AND"
+Sculptra,has_contraindication,"antiseptic. If the vial, seal, or flip-off cap is damaged, do not use, and call Galderma"
+Sculptra,has_contraindication,horizontally and withdraw suspension from the lower lateral of the vial to avoid withdrawing
+Sculptra,has_contraindication,"The patient should be fully apprised of the indications, contraindications, warnings,"
+Sculptra,has_adverse_effect,"precautions, treatment responses, adverse reactions, and method of administration with Sculptra."
+Sculptra,has_adverse_effect,"• For patients who have experienced medically important adverse events, a decision for"
+Sculptra,has_adverse_effect,touchup or re-treatment should take the cause and severity of previous reactions into
+Sculptra,has_adverse_effect,time (several weeks) after injection as the treatment effect of Sculptra occurs.
+Sculptra,has_adverse_effect,area over several weeks as the treatment effects occur.
+Sculptra,has_contraindication,"Before injecting Sculptra, always perform a reflux maneuver to avoid intravascular injection. If"
+Sculptra,has_adverse_effect,Health care practitioners are encouraged to be prepared with the following in the event of an
+Sculptra,has_adverse_effect,"3 Jones, Derek; Fitzgerald, Rebecca; Cox, Sue Ellen; et al. Preventing and Treating Adverse Events of Injectable Fillers:"
+Sculptra,has_adverse_effect,event of an ophthalmic adverse event related to a dermal filler injection
+Sculptra,has_adverse_effect,• conducting a basic neurologic examination in the event of an ophthalmic adverse event due to
+Sculptra,has_adverse_effect,the association of such events with central nervous system deficits
+Sculptra,has_contraindication,"avoid deposition in the superficial skin, deposition should be stopped before the needle bevel"
+Sculptra,has_contraindication,spaced at a distance of 0.5 -1 cm. Avoid overcorrection.
+Sculptra,has_adverse_effect,of the contour deficiency as the Sculptra effect occurs over the minimum of four weeks between
+Sculptra,has_contraindication,wrapped in cloth (avoid any direct contact of the ice with the skin) is applied to the treated
+Sculptra,has_adverse_effect,areas. See ADVERSE EVENTS for details of the incidence and severity of AE observed
+Sculptra,has_contraindication,"avoiding superficial injections or over-correction). In addition, massaging the treatment area"
+Sculptra,has_contraindication,"• Within the first 24 hours, an ice pack wrapped in cloth (avoiding any direct contact of the ice"
+Sculptra,has_adverse_effect,gradually improve within several weeks as the treatment effect of Sculptra occurs. The health
+Sculptra,has_adverse_effect,"skin, have been reported. Patients should report these events and any other side effects to"
+Sculptra,has_contraindication,be avoided until any initial swelling and redness has resolved. Patients should be informed
+Sculptra,has_adverse_effect,"ANY SIDE EFFECTS, ADVERSE EVENTS, PRODUCT QUESTIONS OR PRODUCT"
+Ifu%20sculptra%20,has_ingredient,COMPOSITION OF SCULPTRA
+Ifu%20sculptra%20,has_adverse_effect,"Because the treatment effects for SCULPTRA appear gradually over a few weeks, for the first"
+Ifu%20sculptra%20,has_contraindication,CONTRAINDICATIONS
+Ifu%20sculptra%20,has_contraindication,Do not use in patients with a history of hypersensitivity to any of the components of the
+Ifu%20sculptra%20,has_contraindication,Do not use reconstituted SCULPTRA product supplemented with lidocaine in patients
+Ifu%20sculptra%20,has_contraindication,Do not use in patients with severe allergies manifested by a history of anaphylaxis or
+Ifu%20sculptra%20,has_contraindication,"Do not use when there is active disease, such as inflammation (skin eruption such as cysts,"
+Ifu%20sculptra%20,has_contraindication,• Special care should be taken to avoid injection into the blood vessels. Introduction of
+Ifu%20sculptra%20,has_adverse_effect,• Rare but serious adverse events associated with the intravascular injection of soft tissue
+Ifu%20sculptra%20,has_adverse_effect,gradually improve within several weeks as the treatment effect of SCULPTRA occurs. If
+Ifu%20sculptra%20,has_contraindication,• SCULPTRA vials are for single patient and single session use only in order to avoid
+Ifu%20sculptra%20,has_contraindication,after use. Do not use if package or vial is opened or damaged.
+Ifu%20sculptra%20,has_adverse_effect,Aseptic technique and standard practice to prevent cross-infections are to be followed.
+Ifu%20sculptra%20,has_adverse_effect,palpable lumps. (see section “ADVERSE REACTIONS”). Refer to the
+Ifu%20sculptra%20,has_contraindication,"• The patient should avoid excessive sun, UV lamp exposure and extreme temperatures"
+Ifu%20sculptra%20,has_adverse_effect,eliciting an inflammatory reaction at the implant site. This also applies if SCULPTRA is
+Ifu%20sculptra%20,has_adverse_effect,"• Consider safety risks associated with the use of lidocaine, including possible toxic effects"
+Ifu%20sculptra%20,has_adverse_effect,ADVERSE REACTIONS
+Ifu%20sculptra%20,has_adverse_effect,Anticipated injection-related reactions
+Ifu%20sculptra%20,has_adverse_effect,"The anticipated injection related reactions include transient bleeding from the needle stick,"
+Ifu%20sculptra%20,has_adverse_effect,The following post marketing adverse events have been reported from worldwide sources
+Ifu%20sculptra%20,has_adverse_effect,Papules/nodules; Swelling/oedema; Mass/induration; Device ineffective; Pain/tenderness;
+Ifu%20sculptra%20,has_adverse_effect,Erythema; Granuloma/foreign body reaction; Bruising/bleeding; Inflammation; Eye disorders
+Ifu%20sculptra%20,has_adverse_effect,"acuity; Other injection site reactions and skin reactions including burning sensation, dryness,"
+Ifu%20sculptra%20,has_adverse_effect,"Other dermatological events including localised alopecia, skin tightness and skin wrinkling;"
+Ifu%20sculptra%20,has_adverse_effect,"Non-dermatological events including anxiety, arthralgia, chills, depression, diarrhoea,"
+Ifu%20sculptra%20,has_adverse_effect,supplied by the blood vessels affected; or rarely as ischemic events in other organs due to
+Ifu%20sculptra%20,has_adverse_effect,embolisation. Rare but serious cases of ischemic events associated with temporary or
+Ifu%20sculptra%20,has_adverse_effect,"For patients who have experienced clinically significant reactions, a decision for retreatment"
+Ifu%20sculptra%20,has_adverse_effect,should take into consideration the cause and significance of previous reactions.
+Ifu%20sculptra%20,has_adverse_effect,ANY SIDE EFFECTS OR PRODUCT COMPLAINTS SHOULD BE NOTIFIED TO
+Ifu%20sculptra%20,has_contraindication,"an antiseptic. If the vial, seal, or flip-off cap are damaged, do not use, and call Galderma"
+Ifu%20sculptra%20,has_contraindication,The reconstituted product must be injected within 72 hours of reconstitution. If not used
+Ifu%20sculptra%20,has_contraindication,the lower lateral of the vial to avoid withdrawing foam. Do not store the reconstituted
+Ifu%20sculptra%20,has_contraindication,"informed completely of the indications, contraindications, warnings, precautions for"
+Ifu%20sculptra%20,has_adverse_effect,"use, possible side effects and mode of administration of SCULPTRA. Each patient"
+Ifu%20sculptra%20,has_adverse_effect,removed and the treatment area gently massaged. In the event that the blanching does
+Ifu%20sculptra%20,has_contraindication,"To avoid deposition in the superficial skin, deposition should be stopped before the"
+Ifu%20sculptra%20,has_contraindication,Avoid overcorrection.
+Ifu%20sculptra%20,has_adverse_effect,area over several weeks as the treatment effect occurs. Additional sessions may be
+Ifu%20sculptra%20,has_adverse_effect,needed to achieve full effect. The total number of injections and thus total volume of
+Ifu%20sculptra%20,has_contraindication,into the deep dermis or subcutaneous layer. Intramuscular injection should be avoided.
+Ifu%20sculptra%20,has_adverse_effect,improvement of the depressed area over several weeks as the treatment effect occurs.
+Ifu%20sculptra%20,has_adverse_effect,"ADVERSE REACTIONS section for details. After the injection session, an ice pack"
+Ifu%20sculptra%20,has_contraindication,"(in a suitable cloth, avoiding any direct contact of the ice with the skin) should be"
+Ifu%20sculptra%20,has_contraindication,"IF THE VIAL, SEAL, OR FLIP-OFF CAP ARE DAMAGED, DO NOT USE, AND"
+90,has_contraindication,Contraindications
+90,has_adverse_effect,"• Injection site reactions (such as swelling, redness, tenderness, pain, bruising or itching) to"
+90,has_adverse_effect,"immediate post-injection reactions included extreme swelling of lips, the whole face and"
+90,has_adverse_effect,product slowly and apply the least amount of pressure necessary. Rare but serious adverse
+90,has_adverse_effect,events associated with the intravascular injection of soft tissue fillers in the face have been
+90,has_adverse_effect,increases the occurrence of moderate to severe injection site reactions. If a volume of more than
+90,has_adverse_effect,in older patients (28%) compared to younger patients (14%). The majority of these events were
+90,has_contraindication,• Restylane is packaged for single patient use. Do not resterilize. Do not use if package is opened
+90,has_adverse_effect,• The safety or effectiveness of Restylane for the treatment of anatomic regions other than
+90,has_adverse_effect,(14/150). 50% of these events lasted up to six weeks after initial implantation.
+90,has_adverse_effect,"population, the incidence of adverse events was similar to the overall study population, with the"
+90,has_contraindication,"• Avoid injecting Restylane into areas in close proximity to permanent implants, as this could"
+90,has_adverse_effect,potentially aggravate latent adverse events or interfere with the aesthetic outcome of the
+90,has_adverse_effect,reaction at the implant site. This also applies if Restylane is administered before the skin has
+90,has_adverse_effect,cases product remnants has been detected in tissue when the clinical effect has returned to
+90,has_adverse_effect,"• Restylane is a clear, colorless gel without particulates. In the event that the content of a syringe"
+90,has_contraindication,"shows signs of separation and/or appears cloudy, do not use the syringe and notify Galderma"
+90,has_contraindication,• Glass is subject to breakage under a variety of unavoidable conditions. Care should be taken
+90,has_contraindication,with the handling of the glass syringe and with disposing of broken glass to avoid laceration or
+90,has_adverse_effect,Adverse Experiences
+90,has_adverse_effect,There were six U.S. studies that reported adverse experiences. Four of the six studies were
+90,has_adverse_effect,Restylane or Perlane injection on both sides of the face. The adverse outcomes reported in patient
+90,has_adverse_effect,diagnosed adverse events identified in studies MA-1400-01 and MA-1400-02 at 72 hours after
+90,has_adverse_effect,injection are presented in Table 7. Table 8 presents all investigator-identified adverse experiences
+90,has_adverse_effect,"In the fourth U.S. study (MA-004-03) involving 75 patients at 3 centers, adverse events reported by"
+90,has_adverse_effect,Table 7 shows the number of adverse experiences identified by investigators at 72 hours after
+90,has_adverse_effect,injection for Studies MA-1400‑01 and MA-1400-02. Some patients had multiple adverse
+90,has_adverse_effect,experiences or had the same adverse experience at multiple injection sites. No adverse experiences
+90,has_adverse_effect,Table 8 presents the number of patients and per patient incidence of all adverse experiences
+90,has_adverse_effect,severity of adverse experiences were similar in nature and duration to those recorded during the
+90,has_adverse_effect,"In all three studies, investigators reported the following local and systemic events that were judged"
+90,has_adverse_effect,"contact, impetigo, herpetic); unrelated injection site reactions (e.g., desquamation, rash, anesthesia);"
+90,has_adverse_effect,adverse events identified by the investigator.
+90,has_adverse_effect,"Two subjects had adverse events that were severe, one subject with bilateral facial bruising and one"
+90,has_adverse_effect,subject with infection at the injection site. These events were considered probably or possibly
+90,has_adverse_effect,related and both subjects had their events resolve in approximately 3 weeks.
+90,has_adverse_effect,"In the U.S. pivotal study (MA-1300-15) involving 180 subjects at 12 centers, the adverse outcomes"
+90,has_adverse_effect,"adverse events are presented in Table 12. At baseline, subjects were randomized to receive"
+90,has_adverse_effect,There were 8 subjects enrolled in the study that were never treated. The number of events and
+90,has_adverse_effect,session increased the occurrence of the total of moderate and severe injection site reactions. The
+90,has_adverse_effect,"97% of the subjects reported at least one event of swelling, redness, tenderness, or pain in their"
+90,has_adverse_effect,"diaries. These were mainly short-term events, which occurred immediately after treatment and"
+90,has_adverse_effect,resolved within 14 days. 15% of the subjects reported adverse events (typically swelling and
+90,has_adverse_effect,tenderness) that lasted longer than 15 days in their diary. 46% of subjects reported at least one event
+90,has_adverse_effect,lip augmentation. Subjects were followed up through 24 weeks. Seven adverse events were
+90,has_adverse_effect,"reported. Two of the seven events, which were mild bruising, were related to injection procedure."
+90,has_adverse_effect,The adverse outcomes reported in subject diaries are presented in Table 13.
+90,has_adverse_effect,Table 12 presents commonly reported (≥ 5%) treatment emergent adverse events (TEAEs) by
+90,has_adverse_effect,"For study MA-1300-13K, seven treatment emergent adverse events were experienced by four"
+90,has_adverse_effect,"subjects. Two of these events, mild bruising, were considered related to treatment."
+90,has_adverse_effect,The adverse event reports received from post-marketing surveillance (from voluntary reporting and
+90,has_adverse_effect,countries most commonly included reports of transient swelling/edema and inflammatory reactions
+90,has_adverse_effect,The following events were also reported in decreasing order of frequency:
+90,has_adverse_effect,"• short duration of effect,"
+90,has_adverse_effect,"• injection site reactions including burning sensation, warmth and irritation, inflammation,"
+90,has_adverse_effect,"• granuloma/foreign body reaction,"
+90,has_adverse_effect,"• other dermatological events including dry skin, skin exfoliation, skin wrinkling, localized"
+90,has_adverse_effect,"• non-dermatological events including arthralgia, asthenia, discomfort, dysphagia, syncope,"
+90,has_adverse_effect,"When required, treatments for these events included ice, massage, warm compress, nitroglycerine"
+90,has_adverse_effect,Reports of serious adverse events for Restylane with and without lidocaine are rare. The most
+90,has_adverse_effect,"commonly reported serious adverse events were infection/abscess, ischemia/necrosis, scarring,"
+90,has_adverse_effect,"visual impairment, hypersensitivity/allergic reactions and granuloma including cases of"
+90,has_adverse_effect,"mass/induration. Other concurrent serious events included: swelling, pain/tenderness, erythema,"
+90,has_adverse_effect,Serious granuloma/foreign body reaction was reported with a time to onset ranging from a month to
+90,has_adverse_effect,The onset of serious hypersensitivity/allergic reactions generally varied from immediately to a few
+90,has_adverse_effect,weeks post injection. The majority of the events were recovering or recovered at the time of last
+90,has_adverse_effect,in the area supplied by the blood vessels affected; or rarely as ischemic events in other organs due
+90,has_adverse_effect,"Isolated rare cases of ischemic events affecting the eye leading to visual loss, and the brain resulting"
+90,has_adverse_effect,"local wound care, drainage, surgery and hyperbaric oxygen. Outcome of the events ranged from"
+90,has_adverse_effect,resolved to ongoing at the time of last contact. In many of the events requiring medical intervention
+90,has_adverse_effect,"Adverse reactions should be reported to Galderma Laboratories, L.P. at 1-855-425-8722."
+90,has_adverse_effect,The safety and effectiveness of Restylane in the treatment of facial folds and wrinkles (nasolabial
+90,has_adverse_effect,Restylane was shown to be effective when compared to crosslinked collagen and crosslinked
+90,has_adverse_effect,"1:1 randomized, prospective study at 6 U.S. centers, which compared the safety and effectiveness of"
+90,has_adverse_effect,Effectiveness was studied with 6-month follow-up. Safety was studied with 12-month follow-up.
+90,has_adverse_effect,Effectiveness
+90,has_adverse_effect,"The difference in effect of Restylane and Zyplast on the visual severity of the nasolabial folds, as"
+90,has_adverse_effect,Effectiveness
+90,has_adverse_effect,"1:1 randomized, prospective study at 17 U.S. centers, which compared the safety and effectiveness"
+90,has_adverse_effect,Effectiveness was studied with 6 months follow-up. Safety was studied with 6 months follow-up.
+90,has_adverse_effect,Effectiveness
+90,has_adverse_effect,The difference in effect of Restylane at week 12 versus baseline condition on the visual severity of
+90,has_adverse_effect,"baseline score by the same evaluator. Duration of effect was defined as 6 months or time point, if"
+90,has_adverse_effect,"evaluation of adverse experiences at 72 hours, and at 2, 6, 12, and 24 weeks; development of"
+90,has_adverse_effect,humoral or cell-mediated immunity; and the relationship of adverse experiences to injection
+90,has_adverse_effect,"(Perlane) are presented in Table 15. In the primary effectiveness assessment at 12 weeks, 77% of"
+90,has_adverse_effect,"antibodies against Restylane had adverse experiences at the injection site, which was similar to the"
+90,has_adverse_effect,"local adverse event rate observed in the entire Restylane population (i.e., 53/142 (37%)). No severe"
+90,has_adverse_effect,events were noted and the subject who developed an antibody response after Restylane injection did
+90,has_adverse_effect,not experience any adverse event at the injection site. Immediate type skin testing demonstrated that
+90,has_adverse_effect,"1:1 randomized, prospective study at 10 U.S. centers, which compared the safety and effectiveness"
+90,has_adverse_effect,Effectiveness was studied with 6 months follow-up. Safety was studied with 6 months follow-up.
+90,has_adverse_effect,Effectiveness
+90,has_adverse_effect,The difference in effect of Restylane at week 12 versus baseline condition on the visual severity of
+90,has_adverse_effect,"effect was defined as 6 months or time point, if earlier, at which less than 50% of patients had at"
+90,has_adverse_effect,"evaluation of adverse experiences at 72 hours, and at 2, 6, 12, and 24 weeks; development of"
+90,has_adverse_effect,humoral or cell-mediated immunity; and the relationship of adverse experiences to injection
+90,has_adverse_effect,"effectiveness assessment at 12 weeks, 93% of the Restylane-treated and 92% of the Perlane-treated"
+90,has_adverse_effect,against Restylane had adverse experiences at the injection site as compared to the local adverse
+90,has_adverse_effect,"event rate observed in the entire Restylane population (i.e., 28/150 (18.7%)). All the adverse"
+90,has_adverse_effect,The duration of effectiveness of Restylane for correction of nasolabial folds (NLF) was evaluated in
+90,has_adverse_effect,duration of effectiveness of 18 months from baseline following re-treatment at 4.5 or 9 months.
+90,has_adverse_effect,effectiveness of Restylane using two re-treatment schedules. Initially Restylane was injected in both
+90,has_adverse_effect,"Effectiveness was studied at 18 months after the initial injection (i.e., either 9 or 13.5 months after"
+90,has_adverse_effect,Effectiveness
+90,has_adverse_effect,The difference in effect of Restylane injected 4.5 or 9 months after the initial treatment on the visual
+90,has_adverse_effect,Severity and duration of injection site reactions and adverse events were recorded.
+90,has_adverse_effect,Effectiveness
+90,has_adverse_effect,The safety and effectiveness of Restylane for lip fullness augmentation was evaluated in a
+90,has_adverse_effect,"V, or VI. Each lip qualified by MLFS score was analyzed for effectiveness and all lips were"
+90,has_adverse_effect,Effectiveness
+90,has_adverse_effect,The primary effectiveness objective was to identify whether Restylane was more effective in lip
+90,has_adverse_effect,The primary safety objective was to define the incidence of all adverse events; including subject
+90,has_adverse_effect,weeks as well as 2 and 4 weeks after the 6 month treatment; and any reported or observed adverse
+90,has_adverse_effect,events.
+90,has_adverse_effect,Secondary effectiveness objectives included:
+90,has_adverse_effect,Effectiveness
+90,has_adverse_effect,The purpose of this study was to evaluate the safety and effectiveness of Restylane for soft tissue
+90,has_adverse_effect,augmentation of the lips. The results confirm that Restylane is highly effective for adding fullness to
+90,has_adverse_effect,The effectiveness evaluation parameter was the Global Aesthetic Improvement Scale (GAIS)
+90,has_adverse_effect,To assess the incidence and severity of adverse experiences from Restylane when used in the lips
+90,has_adverse_effect,old. Seventeen subjects were white.
+90,has_contraindication,"Prior to treatment, the patient should avoid taking aspirin, nonsteroidal anti-inflammatory"
+90,has_contraindication,Restylane should be injected into the submucosal layer; care should be taken to avoid intramuscular
+90,has_adverse_effect,the injection is stopped just before the needle is pulled out of the skin to prevent material from
+90,has_adverse_effect,9. Only correct to 100% of the desired volume effect. Do not overcorrect. With cutaneous
+90,has_contraindication,avoid thermal injury.
+90,has_adverse_effect,"12. Patients may have mild to moderate injection site reactions, which typically resolve in less than"
+90,has_contraindication,"• To help avoid needle breakage, do not attempt to straighten a bent needle. Discard it and"
+90,has_contraindication,• Do not reshield used needles. Recapping by hand is a hazardous practice and should be avoided.
+90,has_contraindication,the needle making engineered protections infeasible. Care should be taken to avoid sharps
+90,has_contraindication,Do not use if the package is damaged or if expiry date or lot number is missing or illegible.
+Restylane%20defyne%20mar%202021.pdf,has_ingredient,BDDE – the ingredient used to crosslink the hyaluronic acid
+Restylane%20defyne%20mar%202021.pdf,has_ingredient,"used local anesthetic to numb the skin. The hyaluronic acid is crosslinked with BDDE, an ingredient that"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,Restylane® Defyne has been shown to maintain this effect for up to 12 months.
+Restylane%20defyne%20mar%202021.pdf,has_contraindication,4. CONTRAINDICATIONS
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,Have severe allergies with a history of severe reactions (anaphylaxis). Use of Restylane® Defyne
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,may result in an allergic reaction.
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,acid in Restylane® Defyne (bacterial proteins). Use may result in an allergic reaction.
+Restylane%20defyne%20mar%202021.pdf,has_contraindication,understand in order to help avoid unsatisfactory results and complications.
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"chemical peels or hair removal may lead to other side effects such as redness, swelling, heat"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,and/or pain of the skin (inflammatory reaction). Tell your doctor if you have had any of these
+Restylane%20defyne%20mar%202021.pdf,has_contraindication,"Within the first 24 hours after treatment with Restylane® Defyne, you should avoid or minimize"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,properly (effective) and was safe to use.
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"procedure to measure the effects of the treatments.  For each patient, the amount of product used was"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"themselves. To measure side effects following the procedure, each patient kept a diary for 21 days to"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,record side effects. These were then shared with the doctors.
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,Restylane® Defyne was tested in 140 patients to ensure it was safe and effective to use in treatment of
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"for 12 months following the procedure to measure the effects of the treatments.  For each patient, the"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"To measure side effects following the procedure, each patient kept a diary for 28 days to record side"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,effects. These were then shared with the doctors.
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,monitored for another 12 weeks for the effect and safety of initial or repeat treatments.
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,Restylane® Defyne was studied in many patients like yourself to determine if it was effective in treating
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,been shown to maintain its effect for up to 12 months.
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,Restylane® Defyne was evaluated in many patients like yourself to determine if it was effective in
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,What side effects were seen in the clinical studies?
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,effects at the site where they received the injection:
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"Most patients said their side effects were mild, short-lived and did not require them to call their doctor."
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,These patients said that their side effects disappeared within 1-2 weeks.
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,Table 1 below provides additional information about the side effects that patients reported in this study.
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"Table 1. Most common side effects of Restylane® Defyne recorded by patients who participated in the study,"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,Side Effect
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"chin, most patients reported the following side effects at the site where they received the injection:"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"Most patients said their side effects were mild (71.6%, 83/116) and disappeared within 1-2 weeks."
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,Moderate side effects were experienced by 25.9% of subjects and severe side effects experienced by
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,2.6% of subjects. Most subjects experienced side effects less than 14 days. Side effects lasting 14-27
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,days were experienced by 20.7% of subjects and 8.6% of subjects experienced side effects lasting 28
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,Table 2 below provides additional information about the side effects that patients reported in this study
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"Table 2. Most common side effects of Restylane® Defyne recorded by patients who participated in the study,"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,Side Effect
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,It is important to understand that any procedure carries a risk of side effects. After an injection of
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"dermal filler gel, you may experience skin reactions due to the injection and/or from the dermal filler"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"When Restylane® Defyne was studied, side effects that occurred at the injection site included swelling,"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"reactions that disappeared within 1-2 weeks. If any symptoms last longer than 2 weeks, you should call"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,What side effects have been voluntarily reported following use of Restylane®
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,The most common reported side effects included reports of temporary swelling (edema) with
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"immediate onset or delayed onset, up to several weeks after treatment. The following events were also"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,short duration of effect
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,injection site reactions including burning sensation and warmth
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,allergic reaction (hypersensitivity)/rapid swelling (angioedema)
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"non-dermatological events including chills, headache, discomfort (malaise), nausea and fever"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,other dermatological events including pain of skin
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"When required, treatments for these events included ice, massage, warm compress, local drugs that"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,Reports of serious adverse events for Restylane® Defyne with and without lidocaine are rare. The
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"most commonly reported serious adverse events were infection/pocket of pus (abscess), lumps and"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"eye disorders. Other concurrent serious adverse events included: swelling, pain/tenderness, skin"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,in tissue (granuloma/foreign body reaction) was mostly reported with a time to onset ranging
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,tissues (ischemic events) after affecting the eye and brain have led to vision loss and stroke (cerebral
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,You should tell your doctor immediately if you experience any of these side effects or if you notice
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,anything unusual at the site of treatment. Treatments may include medicine to prevent blood clotting
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"(anticoagulant), medicine to treat allergic reactions (epinephrine), aspirin, enzyme used to help"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"Let you know of any possible side effects that you may experience, and what to do if you"
+Restylane%20defyne%20mar%202021.pdf,has_contraindication,Avoid touching the treated area within six hours following treatment so you do not accidentally
+Restylane%20defyne%20mar%202021.pdf,has_contraindication,"Avoid taking aspirin, NSAID, St. John’s Wort, blood thinners, and high doses of Vitamin E"
+Restylane%20defyne%20mar%202021.pdf,has_contraindication,"itching at the injection site. Until there is no redness or swelling, avoid exposure of the treated"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,In the clinical studies the most common side effects were temporary reactions at the treatment site
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,"such as pain, tenderness, swelling, bruising, redness, itching, and lumps/bumps. These side effects"
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,generally lasted 1 to 2 weeks. See Section 8 for additional information on side effects seen in the clinical
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,You should call your doctor if you have any of the following side effects that last for more than 14 days:
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,These side effects typically go away within two weeks.
+Restylane%20defyne%20mar%202021.pdf,has_adverse_effect,Any side effect that occurs weeks or months after treatment
+Dysport_aesthetic_pm_e_sep_29,has_contraindication,CONTRAINDICATIONS ....................................................................................................4
+Dysport_aesthetic_pm_e_sep_29,has_ingredient,"DOSAGE FORMS, STRENGTHS, COMPOSITION AND PACKAGING ..........................8"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,ADVERSE REACTIONS .................................................................................................10
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Adverse Reaction Overview ...................................................................................10
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Clinical Trial Adverse Reactions ............................................................................11
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Post-Market Adverse Reactions ............................................................................13
+Dysport_aesthetic_pm_e_sep_29,has_contraindication,CONTRAINDICATIONS
+Dysport_aesthetic_pm_e_sep_29,has_ingredient,"who are hypersensitive to this drug or to any ingredient in the formulation, including any"
+Dysport_aesthetic_pm_e_sep_29,has_ingredient,"non-medicinal ingredient, or component of the container. For a complete listing, see 6"
+Dysport_aesthetic_pm_e_sep_29,has_ingredient,"DOSAGE FORMS, STRENGTHS, COMPOSITION AND PACKAGING."
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,DISTANT SPREAD OF TOXIN EFFECT: The effects of Dysport Aesthetic and all
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,consistent with botulinum toxin effects. These symptoms have been reported hours to
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,The clinical effect of Dysport Aesthetic may last up to four months. Repeat dose clinical studies
+Dysport_aesthetic_pm_e_sep_29,has_contraindication,"Avoid injection near the levator palpebrae superioris, particularly in patients with larger"
+Dysport_aesthetic_pm_e_sep_29,has_contraindication,"Injection should be lateral (at 20-30° angle to the skin) and superficial, avoiding blood vessels. All"
+Dysport_aesthetic_pm_e_sep_29,has_contraindication,smile. Care must be taken to avoid injecting the zygomaticus major/minor muscles to avoid lateral
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"paralysis of respiratory muscles. In the event of overdose, the patient should be medically"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"In the event of suspected or actual cases of botulinum toxin poisoning, please contact your local"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,botulinum toxin-induced effects already apparent by the time of antitoxin administration.
+Dysport_aesthetic_pm_e_sep_29,has_ingredient,"DOSAGE FORMS, STRENGTHS, COMPOSITION AND PACKAGING"
+Dysport_aesthetic_pm_e_sep_29,has_ingredient,"Table 2 – Dosage Forms, Strengths, Composition and Packaging"
+Dysport_aesthetic_pm_e_sep_29,has_contraindication,Do not use dosage recommendations and potency units applied to other botulinum toxin products
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"The safe and effective use of Dysport Aesthetic depends upon proper storage of the product,"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"Muscle weakness remote to the site of injection and other serious adverse effects (e.g., dysphagia"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,are at a greater risk of these effects and should be treated with extreme caution. The botulinum
+Dysport_aesthetic_pm_e_sep_29,has_ingredient,Strength/Composition
+Dysport_aesthetic_pm_e_sep_29,has_ingredient,Non-medicinal Ingredients
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"This product contains human serum albumin, a derivative of human blood. Based on effective"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"As with all biologic products, an anaphylactic reaction may occur. Necessary precautions should"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"be taken and epinephrine should be available. If such a reaction occurs, further injection should"
+Dysport_aesthetic_pm_e_sep_29,has_contraindication,be discontinued (see CONTRAINDICATIONS).
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,effectiveness of subsequent treatment. When patients do not respond to Dysport Aesthetic after
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,systemic effects such as severe dysphagia and respiratory compromise.
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"do not indicate direct or indirect harmful effects with respect to pregnancy, embryo/fetal"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,ADVERSE REACTIONS
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Adverse Reaction Overview
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Adverse reactions may occur within the first few days following injection and while generally
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"other serious adverse effects (e.g., dysphagia when injected into the neck region) have been"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Clinical Trial Adverse Reactions
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Clinical trials are conducted under very specific conditions.  The adverse reaction rates
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,should not be compared to the rates in the clinical trials of another drug. Adverse reaction
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,information from clinical trials may be useful in identifying and approximating rates of adverse
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,drug reactions in real-world use.
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"The adverse event data described below reflect exposure in 2,341 subjects who received 5,360"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Adverse events of any cause were reported for 42% of the subjects treated with Dysport
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Aesthetic and 29% of the subjects treated with placebo. Treatment-emergent adverse events
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,(TEAEs) were generally mild to moderate in severity and the majority of events were considered
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,unrelated or unlikely to be related to treatment. The most frequently reported adverse events
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,that of the initial treatment. Table 3 displays treatment-emergent adverse events reported in
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Table 3: Treatment-Emergent Adverse Events with > 1% Incidence in the glabellar
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Adverse Events by Preferred
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,treatment-emergent adverse
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,event
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,The frequency of any ocular adverse events in the Dysport Aesthetic treatment group was low
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,and decreased with subsequent treatments. The majority of eyelid ptosis events were mild to
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Adverse events of any cause were reported for 19% of the subjects treated with Dysport
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,TEAEs were generally mild to moderate in severity and the majority of events were considered
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"included eyelid edema, headache and injection site reactions (haematoma, pruritus, and"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Table 4: Treatment-Emergent Adverse Events with > 1% Incidence following first cycle
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Adverse Events by Preferred
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Injection site reactions (e.g.
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Post-Market Adverse Reactions
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,There is extensive post-marketing experience for the treatment of upper facial lines. Adverse
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"reactions are reported voluntarily from a population of uncertain size; thus, it is not always"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Adverse reactions reported during post-marketing without distinction of indications and not
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Table 5: Adverse Reactions reported during post-marketing without distinction of
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Adverse Drug Reaction
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Adverse effects resulting from distribution of the effects of the toxin to sites remote from the site
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,closely because the effect of the botulinum toxin may be potentiated. Use of anticholinergic
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,drugs after administration of Dysport Aesthetic may potentiate systemic anticholinergic effects
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,The effect of administering different botulinum neurotoxin products at the same time or within
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,administration of botulinum toxin prior to the resolution of the effects of a previously
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Effect
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,the effect of
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,The effect of botulinum toxin may be
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,The effect of administering different
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,effects of a previously administered
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,The primary pharmacodynamic effect of Dysport Aesthetic is due to chemical denervation of the
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Duration of Effect
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,The clinical effect of Dysport Aesthetic may last up to 4 months. Dysport Aesthetic should not be
+Dysport_aesthetic_pm_e_sep_29,has_contraindication,Do not use after the expiration date on the vial.
+Dysport_aesthetic_pm_e_sep_29,has_ingredient,"Structural formula:  AbobotulinumtoxinA (Botulinum toxin type A), the active ingredient in"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,at maximum smile. Duration of effect compared with placebo was assessed up to Week 16.
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,of effect was reported as soon as 24 hours; the median time to onset of treatment response was
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"improvement, at maximum frown, at Day 30. Onset of effect was reported as soon as 24 hours;"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,increase in adverse events with repeated exposure.
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"Reproductive and Developmental Toxicology: In a study evaluating postnatal effects,"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,weaning of the litters (21 days postpartum). There was no effect of treatment on in utero
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"survival. Evaluation of the offspring showed no effects on survival, body weights, sexual"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Fertility and Reproductive Toxicity: Dysport Aesthetic had no effect upon fertility when
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,males. There were no effects upon implantation parameters at doses up to and including 8
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,due to impaired hind limb function (result of the pharmacological effect on the muscle). The
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Teratogenic Effects: Dysport Aesthetic was not teratogenic when evaluated in rats and rabbits.
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"Reproductive and Developmental Effects: In a study evaluating postnatal effects, pregnant"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,of the litters (21 days postpartum). There was no effect of treatment on in utero survival.
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"Evaluation of the offspring showed no effects on survival, body weights, sexual maturation,"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"reversibility of effects, subgroups of animals were sacrificed after 7, 30, 60 and 90 days of"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"observation. No adverse systemic signs were observed, and there were no local reactions at the"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,site of injection. Treatment related effects were limited to a reduction in the size and weight of
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"the injected muscle, considered to be a pharmacological effect of the drug. Muscle size"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Ocular or Dermal Irritation: A local tolerance study in rabbits showed no adverse effects when
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,instilled into the eye. There was no evidence of local effects at the site of injection in any of the
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,READ THIS FOR SAFE AND EFFECTIVE USE OF YOUR MEDICINE
+Dysport_aesthetic_pm_e_sep_29,has_ingredient,What are the ingredients in Dysport Aesthetic?
+Dysport_aesthetic_pm_e_sep_29,has_ingredient,Medicinal ingredients:  abobotulinumtoxinA
+Dysport_aesthetic_pm_e_sep_29,has_ingredient,Non-medicinal ingredients: Human serum albumin and lactose monohydrate
+Dysport_aesthetic_pm_e_sep_29,has_contraindication,Do not use Dysport Aesthetic if:
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,DISTANT SPREAD OF TOXIN EFFECTS: The effects of Dysport Aesthetic and all
+Dysport_aesthetic_pm_e_sep_29,has_ingredient,• You are allergic or sensitive to any of the ingredients
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"To help avoid side effects and ensure proper use, talk to your healthcare professional"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Side effects may occur from misplaced injections of Dysport Aesthetic temporarily paralyzing
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,nearby muscle groups. There have been very rare reports of side effects that may be related to
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"• The effect of Dysport Aesthetic may be increased by aminoglycoside antibiotics (e.g.,"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Overdose with Dysport Aesthetic is a relative term that can reflect undesired aesthetic effect.
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,What are possible side effects from using Dysport Aesthetic?
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,These are not all the possible side effects you may have when taking Dysport Aesthetic. If you
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"experience any side effects not listed here, tell your healthcare professional."
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,The most commonly reported side effects (≥ 3%) were:
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,The following additional side effects have been reported with Dysport Aesthetic:
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,"Injection site reactions (e.g. bruising, itchy skin, swelling)"
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,If you have a troublesome symptom or side effect that is not listed here or becomes bad enough
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Reporting Side Effects
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,You can report any suspected side effects associated with the use of health products to
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,Visiting the Web page on Adverse Reaction Reporting
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,(https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-
+Dysport_aesthetic_pm_e_sep_29,has_adverse_effect,side effects. The Canada Vigilance Program does not provide medical advice.
