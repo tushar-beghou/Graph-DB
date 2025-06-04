@@ -1,0 +1,20 @@
+﻿Entity,Tags_Attributes,INDICATED_FOR,REDUCES,CONTAINS_ACTIVE_INGREDIENT,ASSOCIATED_WITH,NOT_RECOMMENDED_WITH,VALIDATED_BY,DESCRIBED_BY,TREATED_WITH,COMPONENT_OF,LINKED_TO,CRENESSITY_NOT_RECOMMENDED_FOR,DEMONSTRATED_EFFICACY_AND_SAFETY_OF,REFLECTS_PATIENT_EXPERIENCE_OF
+Crenessity,"CRF receptor antagonist
+,Oral administration,
+Neurocrine product",CAH,ACTH and androgens,crinecerfont,side effects,contraindications,clinical trials,patient feedback,,,,,,
+CAH (Congenital Adrenal Hyperplasia),"Genetic disorder,
+
+21-hydroxylase, deficiency",,,,,,,,crenessity,,,,,
+Crinecerfont,"Chemical compound,
+
+Active ingredient in Crenessity",,,,,,,,,crenessity,,,,
+Side Effects,"Fatigue,
+
+Headache,
+
+Dizziness,
+
+Joint pain",,,,,,,,,,crenessity,,,
+Contraindications,"Acute adrenal insufficiency, Adrenal crisis",,,,,,,,,,,these conditions,,
+ Clinical Trials,CAHtalyst Phase 3 studies,,,,,,,,,,,,crenessity,
+Patient Feedback,"Limited availability, Emerging data",,,,,,,,,,,,,crenessity
