@@ -1,0 +1,134 @@
+﻿MainBranch_DecisionPoint,SubBranch_Focus,Condition_Or_Context,Objective_Or_Problem,Intervention_Or_Keyword,Details_Or_Examples
+CAH Overview & Diagnosis,General Concepts,,Understanding CAH,Congenital Adrenal Hyperplasia (CAH),Core Term
+CAH Overview & Diagnosis,Etiology,Genetic Basis,Underlying Cause,CYP21A2 Gene Mutation,Most common genetic defect
+CAH Overview & Diagnosis,,Specific Enzyme Deficiencies,Identify Cause,21-Hydroxylase Deficiency,Most common form
+CAH Overview & Diagnosis,,,,11-Beta-Hydroxylase Deficiency,Hypertension can be a feature
+CAH Overview & Diagnosis,,,,3-Beta-Hydroxysteroid Dehydrogenase Deficiency,Rare form
+CAH Overview & Diagnosis,,,,17-Alpha-Hydroxylase Deficiency,"Rare form, affects sex steroid & cortisol production"
+CAH Overview & Diagnosis,Classification,Classic CAH,Subtype Definition,Classic CAH,"Severe forms, prenatal onset"
+CAH Overview & Diagnosis,,,Subtype Identification,Salt-Wasting CAH (SW-CAH),"Most severe, cortisol & aldosterone deficiency"
+CAH Overview & Diagnosis,,,,Simple Virilizing CAH (SV-CAH),"Cortisol deficiency, androgen excess, no salt wasting"
+CAH Overview & Diagnosis,,Non-Classic CAH (NCCAH),Subtype Definition,Non-Classic CAH (NCCAH),"Late-Onset, Attenuated, Milder symptoms or asymptomatic"
+CAH Overview & Diagnosis,Screening & Diagnosis,Newborn Phase,Early Detection,Newborn Screening CAH,Critical for early intervention
+CAH Overview & Diagnosis,,,Screening Test,17-Hydroxyprogesterone (17-OHP) Screening,Primary marker in blood spots
+CAH Overview & Diagnosis,,Diagnostic Confirmation,Hormonal Testing,Serum 17-OHP Levels,Elevated levels confirm suspicion
+CAH Overview & Diagnosis,,,,ACTH Stimulation Test,"To assess adrenal response, esp. in NCCAH"
+CAH Overview & Diagnosis,,,Genetic Testing,CYP21A2 Gene Analysis,"Confirms diagnosis, identifies specific mutations, carrier status"
+CAH Overview & Diagnosis,,,Electrolyte Assessment,Serum Sodium and Potassium,Crucial for diagnosing salt-wasting
+CAH Overview & Diagnosis,,,Renin Assessment,"Plasma Renin Activity (PRA) , Direct Renin",To assess mineralocorticoid status
+Treatment Goals & Principles,Overall Aims,All CAH Forms,Achieve Physiological Balance,Hormone Replacement Therapy,Primary goal
+Treatment Goals & Principles,,,Prevent Crisis,Adrenal Crisis Prevention,"Critical, especially in Classic CAH"
+Treatment Goals & Principles,,,Control Androgen Excess,Androgen Excess Management,"Minimize virilization, promote normal puberty,growth"
+Treatment Goals & Principles,,,Promote Normal Development,Growth and Development Optimization,"Monitor height, weight, bone age"
+Treatment Goals & Principles,,,Manage Puberty,Puberty Management CAH,Ensure timely and appropriate pubertal development
+Treatment Goals & Principles,,,Preserve Future Options,Fertility Preservation CAH,Address potential fertility issues
+Treatment Goals & Principles,,,Minimize Adverse Effects,Long-Term Complication Management,"Address GC side effects, metabolic risks, TARTs, bone health"
+Treatment Goals & Principles,Care Approach,,Comprehensive Care,Multidisciplinary Care Team (MDT) CAH,"Pediatric,Adult Endocrinologists, Surgeons, Geneticists, Psychologists"
+Treatment Goals & Principles,,,Specialized Input,Pediatric Endocrinology,Manages children with CAH
+Treatment Goals & Principles,,,,Adult Endocrinology,Manages adults with CAH
+Treatment Goals & Principles,,,Continuity of Care,Transition of Care (Pediatric to Adult),Planned process for adolescents
+Treatment Goals & Principles,,,Family & Genetic Info,Genetic Counseling CAH,"Information on inheritance, risks, prenatal options"
+Pharmacological Therapies,First-Line,Glucocorticoids (GCs),Cortisol Replacement & ACTH Suppression,Hydrocortisone,"Preferred in children (e.g., Cortef), oral tablets,capsules, divided doses (TID,QID)"
+Pharmacological Therapies,,,,Prednisone,"Used in adults, growth-completed adolescents"
+Pharmacological Therapies,,,,Dexamethasone,"Potent, long-acting, used cautiously; also for prenatal treatment"
+Pharmacological Therapies,,,,Cortisone Acetate,Alternative GC
+Pharmacological Therapies,,,Dosing Strategy,Physiological Replacement Doses,Aim to mimic normal cortisol production
+Pharmacological Therapies,,,,Supraphysiological Doses,"May be needed for ACTH suppression, risk of side effects"
+Pharmacological Therapies,,,,Circadian Rhythm Dosing,Attempts to mimic natural cortisol patterns
+Pharmacological Therapies,,,Formulations,Modified-Release Hydrocortisone,"e.g., Chronocort, Plenadren; aims for more physiological profile"
+Pharmacological Therapies,,Mineralocorticoids (MCs),Aldosterone Replacement,Fludrocortisone (Florinef),"Essential for SW-CAH, regulates salt,water balance"
+Pharmacological Therapies,,,Dosing,Fludrocortisone Dosing,"Adjusted based on renin, electrolytes, BP"
+Pharmacological Therapies,,Sodium Supplementation,Sodium Replacement,Sodium Chloride (NaCl),"Tablets,solution, crucial in early infancy"
+Pharmacological Therapies,"Second-Line,Adjunctive Therapies","Poorly Controlled Androgen Excess, Growth Issues",Block Androgen Effects,Anti-Androgens,"Spironolactone, Flutamide, Bicalutamide, Cyproterone Acetate (region-dependent)"
+Pharmacological Therapies,,"Advanced Bone Age , Height Optimization,",Delay Bone Maturation,Aromatase Inhibitors,"Letrozole, Anastrozole; used off-label, often with GH"
+Pharmacological Therapies,,"Short Stature Despite Optimized GC,MC,",Improve Final Height,Growth Hormone (GH) Therapy,Recombinant Human Growth Hormone (rhGH)
+Pharmacological Therapies,,Central Precocious Puberty,Suppress Puberty,Gonadotropin-Releasing Hormone (GnRH) Agonists,"Leuprolide, Histrelin"
+Pharmacological Therapies,Management of Comorbidities,"Osteoporosis,Low Bone Density",Improve Bone Health,Bisphosphonates,Considered in cases of significant bone loss
+Pharmacological Therapies,,Hypertension,Blood Pressure Control,Antihypertensives,May be needed due to CAH itself or GC side effects
+Pharmacological Therapies,,"Insulin Resistance , PCOS-like symptoms (NCCAH)",Improve Metabolic Profile,Metformin,For women with NCCAH and metabolic concerns
+Pharmacological Therapies,,"Menstrual Irregularity , Hirsutism (NCCAH Females)",Symptom Control,Oral Contraceptives,"Regulate cycles, reduce androgenic symptoms"
+Emergency Treatment (Adrenal Crisis),"Stress Situations (Illness, Surgery, Trauma)",Prevent Adrenal Crisis,Increase Glucocorticoid Coverage,Stress Dosing Glucocorticoids,Crucial for survival
+Emergency Treatment (Adrenal Crisis),,"Mild Stress (e.g., fever)",Oral Adjustment,Increased Oral Hydrocortisone Dose,Typically 2-3x usual daily dose
+Emergency Treatment (Adrenal Crisis),,"Severe Stress , Unable to take oral meds",Parenteral Administration,"Parenteral Hydrocortisone (IM,IV Solu-Cortef)",Essential for rapid action
+Emergency Treatment (Adrenal Crisis),Preparedness,"Patient,Family Education",Emergency Kit,Emergency Steroid Injection Kit,"Hydrocortisone for IM injection, instructions"
+Emergency Treatment (Adrenal Crisis),,Patient Identification,Medical Information,"Medical Alert Bracelet,Information",Informs healthcare providers of CAH diagnosis
+Emergency Treatment (Adrenal Crisis),,"Patient,Family Education",Guidance,"Sick Day Rules,Management",Clear instructions on when and how to adjust steroids
+Emergency Treatment (Adrenal Crisis),Acute Adrenal Crisis Event,Life-Threatening Emergency,Immediate Medical Intervention,Adrenal Crisis Treatment Protocol,"IV fluids (saline), IV dextrose (for hypoglycemia), IV hydrocortisone, electrolyte correction"
+Surgical Interventions,Virilized Female Genitalia (Classic CAH),"Correct Anatomical Abnormalities , Functional Improvement",Surgical Reconstruction,Feminizing Genitoplasty,"Complex decision, involves multiple procedures"
+Surgical Interventions,,Clitoral Enlargement,"Reduce Clitoral Size , Preserve Sensation","Clitoroplasty , Clitoral Recession , Clitoral Reduction",Various techniques
+Surgical Interventions,,"Urogenital Sinus , Vaginal Abnormalities","Create Separate Vaginal Opening , Improve Function","Vaginoplasty (Flap, Pull-Through)",May be staged or delayed
+Surgical Interventions,,"Labial Fusion , Abnormalities",Reconstruct Labia,"Labiaplasty , Labial Reconstruction",Part of feminizing genitoplasty
+Surgical Interventions,,"Shared Urethral,Vaginal Opening",Separate Tracts,"Urogenital Sinus Repair,Mobilization",Complex procedure
+Surgical Interventions,,Timing Consideration,Optimal Age for Surgery,Timing of Genitoplasty Debate,"Early Infancy vs. Childhood vs. Adolescent,Delayed Surgery; individualized decision"
+Surgical Interventions,,Pre-operative Assessment,Anatomical Evaluation,"Cystoscopy , Vaginoscopy",To define anatomy before surgery
+Surgical Interventions,Severe CAH Refractory to Medical Therapy,"Control Extreme Androgen Excess , Cushingoid Features from High GC Doses",Remove Adrenal Glands,Bilateral Adrenalectomy (BLA),"Radical treatment, requires lifelong GC and MC replacement"
+Surgical Interventions,,Surgical Approach for BLA,Minimally Invasive vs. Open,"Laparoscopic Adrenalectomy , Open Adrenalectomy",Laparoscopic preferred if feasible
+Surgical Interventions,,Post-BLA Management,Essential Hormone Replacement,Post-Adrenalectomy Hormone Replacement,Lifelong GCs (hydrocortisone) and MCs (fludrocortisone)
+Surgical Interventions,Testicular Adrenal Rest Tumors (TARTs) in Males,"Palpable Testicular Masses , Infertility , Pain","Manage TARTs , Preserve Testicular Function",Testis-Sparing Surgery,Considered in select cases if medical therapy fails to shrink TARTs
+Surgical Interventions,,"Suspicion of Malignancy , Extensive Damage",Remove Testis (Rare),Orchiectomy,"Rarely needed, TARTs are typically benign"
+Age-Specific Management & Timing,Prenatal Phase,"High-Risk Pregnancy (Previous Affected Child , Carrier Parents)","Reduce,Prevent Virilization in Affected Female Fetus",Prenatal Dexamethasone to Mother,"Initiated early first trimester, before CVS,amnio results; controversial"
+Age-Specific Management & Timing,,High-Risk Pregnancy,Fetal Diagnosis,"Chorionic Villus Sampling (CVS) , Amniocentesis",For fetal genotyping and sex determination
+Age-Specific Management & Timing,Newborn & Infancy,"Post-Newborn Screening Confirmation , Clinical Diagnosis","Prevent Adrenal Crisis , Stabilize",Immediate Hormone Replacement,"Hydrocortisone, Fludrocortisone (if SW), NaCl"
+Age-Specific Management & Timing,,Monitoring,Assess Well-being & Treatment Efficacy,"Monitoring for Failure to Thrive, Dehydration, Electrolyte Imbalance","Frequent checks, weight gain, feeding"
+Age-Specific Management & Timing,,Diagnosis Confirmation,Genetic Basis,Genetic Confirmation,CYP21A2 mutation analysis
+Age-Specific Management & Timing,Childhood,Ongoing Management,Maintain Health & Normal Development,Growth Velocity Monitoring,Regular height and weight measurements plotted on charts
+Age-Specific Management & Timing,,,Assess Skeletal Maturation,Bone Age Assessment (X-ray of left hand),Compare skeletal age to chronological age
+Age-Specific Management & Timing,,,"Assess Pubertal Onset,Progression",Pubertal Staging (Tanner Stages),Monitor for precocious or delayed puberty
+Age-Specific Management & Timing,,Potential Complications,"Early Pubic Hair,Body Odor",Management of Precocious Pubarche,"Optimize GC therapy, consider anti-androgens if severe"
+Age-Specific Management & Timing,,,Early True Puberty (GnRH Dependent),Management of Central Precocious Puberty,GnRH agonists if indicated
+Age-Specific Management & Timing,,Treatment Adjustment,Optimize Therapy,"Dose Titration (GCs, MCs)","Based on growth, bone age, and biochemical markers (17-OHP, Androstenedione, Renin)"
+Age-Specific Management & Timing,Adolescence,Ongoing Management & Transition,Optimize Final Height & Prepare for Adulthood,Final Height Optimization,"Continue monitoring growth, bone age; GH therapy if applicable"
+Age-Specific Management & Timing,,Specific Female Issues,Menstrual Health,Management of Menstrual Irregularities,"Optimize GC, consider OCPs if needed"
+Age-Specific Management & Timing,,,Androgenic Symptoms,"Management of Hirsutism, Acne","Optimize GC, anti-androgens, OCPs, cosmetic treatments"
+Age-Specific Management & Timing,,Specific Male Issues,Testicular Health,Testicular Adrenal Rest Tumor (TART) Screening,Regular testicular ultrasound and palpation
+Age-Specific Management & Timing,,Transition to Adult Care,Continuity of Care,Transition to Adult Endocrinology Services,Planned and structured process
+Age-Specific Management & Timing,,Self-Management,Empower Patient,Adherence to Medication and Monitoring,Education and support for independent management
+Age-Specific Management & Timing,Adulthood,Lifelong Management,Maintain Health & Well-being,Lifelong Hormone Replacement,Continuous GC and MC (if SW-CAH) therapy
+Age-Specific Management & Timing,,Fertility,Family Planning,Fertility Management,"Optimize hormone levels, ovulation induction (females), sperm quality assessment (males), ART"
+Age-Specific Management & Timing,,Sexual Health,Address Concerns,Sexual Function Management,"Counseling, address physical and psychological factors"
+Age-Specific Management & Timing,,Bone Health,Prevent Osteoporosis,Bone Health Monitoring (DEXA scans),"Regular screening, especially with long-term GC use"
+Age-Specific Management & Timing,,Metabolic Health,Prevent Comorbidities,Cardiometabolic Risk Factor Monitoring,"Obesity, hypertension, dyslipidemia, type 2 diabetes screening and management"
+Age-Specific Management & Timing,,Male-Specific Issues,TART Management,Management of TARTs,"Optimize GCs, monitor size, rarely surgery"
+Age-Specific Management & Timing,,Psychological Health,Support Well-being,Psychological Well-being,Ongoing support for chronic illness management
+Age-Specific Management & Timing,Non-Classic CAH (NCCAH),Asymptomatic NCCAH,Management Approach,Observation,"May not require treatment if no symptoms and normal growth,puberty"
+Age-Specific Management & Timing,,Symptomatic NCCAH,Address Specific Symptoms,Symptomatic NCCAH Treatment,Based on individual needs
+Age-Specific Management & Timing,,Symptomatic NCCAH - Precocious Pubarche,Symptom Management,Low-Dose Glucocorticoids,If symptoms are problematic or growth is accelerated
+Age-Specific Management & Timing,,"Symptomatic NCCAH - Hirsutism, Acne",,"Anti-Androgens , Oral Contraceptives",For androgenic skin manifestations
+Age-Specific Management & Timing,,"Symptomatic NCCAH - Oligomenorrhea,Amenorrhea",,"Oral Contraceptives , Low-Dose GCs",To regulate menstrual cycles
+Age-Specific Management & Timing,,Symptomatic NCCAH - PCOS-like Phenotype,,"Lifestyle changes, Metformin, OCPs",Address metabolic and reproductive aspects
+Age-Specific Management & Timing,,Symptomatic NCCAH - Infertility,,"Low-Dose GCs , Ovulation Induction",To improve chances of conception
+Monitoring Strategies,Biochemical Monitoring,Assess Treatment Efficacy & Safety,Hormone Levels,17-Hydroxyprogesterone (17-OHP),"Serum, saliva; key marker for GC adequacy"
+Monitoring Strategies,,,,Androstenedione (A4),"Serum, saliva; reflects androgen production"
+Monitoring Strategies,,,,Testosterone,"Serum; assess androgen status, especially in females and prepubertal males"
+Monitoring Strategies,,,,Dehydroepiandrosterone Sulfate (DHEAS),Adrenal androgen marker
+Monitoring Strategies,,Assess Mineralocorticoid Sufficiency,"Hormone,Electrolyte Levels","Renin (Plasma Renin Activity - PRA, or Direct Renin Concentration)",Key marker for fludrocortisone adequacy
+Monitoring Strategies,,,Electrolyte Levels,"Electrolytes (Sodium, Potassium)",Monitor for imbalances
+Monitoring Strategies,,Assess Pituitary Feedback,Hormone Levels,ACTH (Adrenocorticotropic Hormone),"Can indicate under or over-treatment, but pulsatile"
+Monitoring Strategies,,"Assess GC Exposure,Adrenal Function",,"Cortisol (serum, salivary, urine)","To assess adrenal suppression or over-replacement, or in diagnosis"
+Monitoring Strategies,,Comprehensive Steroid Assessment,Advanced Testing,"Urinary Steroid Profiling (USP) , Gas Chromatography-Mass Spectrometry (GC-MS)",Detailed analysis of steroid metabolites
+Monitoring Strategies,,,,"Liquid Chromatography-Tandem Mass Spectrometry (LC-MS,MS)",For precise steroid hormone quantification
+Monitoring Strategies,Clinical Monitoring,Assess Physical Development & Well-being,Growth Parameters,"Growth Charts (Height, Weight, Growth Velocity)",Essential for pediatric patients
+Monitoring Strategies,,Assess Cardiovascular Health & MC Efficacy,Vital Signs,Blood Pressure,Regular monitoring
+Monitoring Strategies,,"Assess Androgen Control , GC Side Effects",Physical Examination,"Signs of Virilization , Cushingoid Features","Hirsutism, acne, clitoromegaly, voice deepening vs. weight gain, striae, etc."
+Monitoring Strategies,,Assess Pubertal Progression,,Pubertal Development Assessment,Tanner staging
+Monitoring Strategies,,Male-Specific Health,,Testicular Examination,Screening for TARTs by palpation
+Monitoring Strategies,,Assess Bone Health,Long-Term Health,Bone Mineral Density (BMD) Assessment (DEXA),"Monitor for osteoporosis,osteopenia"
+Monitoring Strategies,Imaging Studies,Assess Skeletal Maturation,Growth Management,Bone Age X-ray,Left hand and wrist X-ray
+Monitoring Strategies,,"Female Reproductive Health , Urogenital Anatomy",Assessment,Pelvic Ultrasound,"Uterine, ovarian assessment, especially if virilized or menstrual issues"
+Monitoring Strategies,,Male Reproductive Health (TARTs),Screening & Monitoring,Testicular Ultrasound,Primary method for TARTs detection and monitoring
+Monitoring Strategies,,Adrenal Gland Evaluation (Rarely),Specific Indications,"Adrenal Imaging (CT,MRI)",For suspected adrenal tumors or unusual hyperplasia morphology (not routine for CAH mgmt)
+Psychological & Supportive Care,Mental Health & Well-being,Holistic Care,Address Psychological Impact,"Psychological Support , Counseling",For patients and families
+Psychological & Supportive Care,,Therapeutic Approaches,Specific Therapies,Cognitive Behavioral Therapy (CBT),"Help manage stress, anxiety, body image issues"
+Psychological & Supportive Care,,Specific Concerns,Patient Experience,Body Image Concerns,Especially in virilized females or those with Cushingoid features
+Psychological & Supportive Care,,,Gender Aspects,Gender Identity Support,"For individuals with DSD due to CAH, if needed"
+Psychological & Supportive Care,Social Support,Holistic Care,Community & Peer Support,"Family Support , Education",Crucial for managing chronic illness
+Psychological & Supportive Care,,,,"Support Groups (e.g., CARES Foundation, Living with CAH)","Connect with others, share experiences"
+Psychological & Supportive Care,Overall Well-being,,Patient-Reported Outcomes,Quality of Life Assessment,Evaluate impact of CAH and treatment on daily life
+Emerging & Experimental Therapies,Future Treatment Options,Novel Approaches,Correct Genetic Defect,"Gene Therapy (e.g., BBP-631 for CYP21A2)","AAV-mediated gene replacement, under investigation"
+Emerging & Experimental Therapies,,,Reduce ACTH Drive,"Corticotropin-Releasing Hormone (CRH) Receptor Antagonists (e.g., Crinecerfont)",Aim to reduce ACTH and adrenal androgens without high GC doses
+Emerging & Experimental Therapies,,,Block ACTH Action,"ACTH Antagonists , Melanocortin Type 2 Receptor (MC2R) Antagonists (e.g., Atumelnant,CRN04894)",Directly block ACTH effect on adrenal glands
+Emerging & Experimental Therapies,,Highly Experimental,Cell-Based Therapies,"Adrenal Cell Transplantation , Regenerative Medicine",Very early stages of research
+Emerging & Experimental Therapies,,Improved GC Delivery,Optimize Cortisol Replacement,"Novel Glucocorticoid Formulations,Delivery Systems","Delayed-release, modified-release GCs (e.g., Chronocort, Plenadren)"
+Emerging & Experimental Therapies,,,,Continuous Subcutaneous Hydrocortisone Infusion (CSHI),"Pump therapy, similar to insulin pumps, investigational"
+Emerging & Experimental Therapies,,Other Investigational Drugs,Novel Mechanisms,Targeted Steroidogenesis Inhibitors,More specific than current adjunctive therapies
+Emerging & Experimental Therapies,,,,Biallelic Adrenal Rest Targeting,Therapies aimed at adrenal rest tissue function or growth
