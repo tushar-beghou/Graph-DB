@@ -1,0 +1,11 @@
+﻿Diseases / Syndromes,Treatments,Genetic Mutations / Biomarkers,Risk Stratification Systems,Symptoms and Cytopenias,Supportive Care Elements,Drugs
+MDS (Myelodysplastic Syndromes),Allogeneic Hematopoietic Stem Cell Transplantation (allo-HSCT),TP53 mutations,IPSS (International Prognostic Scoring System),Anemia,RBC Transfusions,
+MDS-RS (MDS with Ring Sideroblasts),Hypomethylating Agents (HMA),SF3B1 mutations,IPSS-R (Revised),Thrombocytopenia,Platelet Transfusions,"Azacitidine, Decitabine, Oral decitabine/cedazuridine"
+AML (Acute Myeloid Leukemia),Erythropoiesis-Stimulating Agents (ESA),IDH1/IDH2 mutations,IPSS-M (Molecular),Neutropenia,Granulocyte Colony-Stimulating Factor (G-CSF),Darbepoetin
+Hypoplastic MDS,Lenalidomide,Trisomy 8,WHO Classification,Transfusion Dependence,Iron Overload Monitoring,
+Del(5q) MDS,Luspatercept,RUNX1 mutations,ICC Classification,Fatigue,Infectious Prophylaxis,
+,Immunosuppressive Therapy,ASXL1 mutations,,Infections,,"Antithymocyte Globulin, Cyclosporin A"
+,Iron Chelation Therapy,RAS pathway mutations,,Bleeding,,"Deferasirox, Deferioxamie, Deferiprone"
+,Venetoclax,,,,,
+,Chemotherapy (AML-like regimens),,,,,"Eltrombopag, Romiplostim"
+,Thrombomimetics,,,,,
